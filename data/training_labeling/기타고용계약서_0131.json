@@ -1,0 +1,772 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0131",
+                "document_size": "98kb",
+                "document_page_count": "3",
+                "document_total_ids": "37",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-28",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "약사법, 근로기준법, 약사법 시행령",
+                    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "약사고용계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "의약품판매업자       (이하 갑이라 한다)가 약사 이하 을이라 한다)를 고용함에 있어서 쌍방은 다음과 같은 계약을 체결한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제1조 (쌍방의 자격확인)"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "갑은     시    구    동    번지 소재     점포에     약방이라는 상호를 가지고     시장(도지사)으로부터 의약품판매업(또는 약국개설)허가를 받은 자이고 을은 약사면허를 받은 자이며 현재 그 면허가 유효하며 그 면허증을 가진 자임을  확인한다. 을은 제 2 조에 정한 고용일로부터 위 면허증을 갑에게 교부하여 약방에 배치토록 하여야 한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제2조 (을의 고용)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "계약기간"
+                    ],
+                    "description": "갑은 그가 경영하는 위 약방에 법령이 정하는 시설을 갖추고 을에게 이를 관리시키기 위하여 을을     년   월   일부터 고용한다."
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제3조 (을의 보수청구권)"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "갑은 을이 위 약방 관리에 필요한 노무를 제공하는 대가로 월 금    만원을 을에게 지급할 의무를 진다."
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제4조 (갑의 권리)"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "갑은 을의 노무를 제공받을 권리를 가지며 다음과 같은 지시를 행할 수 있다."
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "1. 을의 근무시간에 관한 사항"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "2. 을의 근무시 유의할 사항항 및 고객에 대한 예의와 방법에 관한 사항"
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관계법령준수"
+                    ],
+                    "description": "3. 약사법에 규정된 의무의 준수에 관한 사항"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "4. 의약품판매의 관리 및 그 금액관리에 관한 사항"
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "5. 기타 출퇴근에 관한 사항"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제5조 (계약금의 지급)"
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "회사는 방송인의 방송활동에 대하여 계약금을 지급하기로 협의가 되면, 그 구체적인 내용은 약정서에서 정하는 바에 따른다."
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 변경에 대한 합의"
+                    ],
+                    "description": "제6조 (계약의 수정 변경)"
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 변경에 대한 합의"
+                    ],
+                    "description": "본 계약의 수정 또는 변경은 각 당사자 또는 그 권한 있는 대표자나 대리인이 정당하게 서명 또는 날인한 서면에 의하여서만 할 수 있다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제7조 (을의 근무시간)"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "본 계약의 수정 또는 변경은 각 당사자 또는 그 권한 있는 대표자나 대리인이 정당하게 서명 또는 날인한 서면에 의하여서만 할 수 있다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "면책"
+                    ],
+                    "description": "제8조 (을의 면책)"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "면책"
+                    ],
+                    "description": "갑이 위 약방의 영업취소 또는 정지처분을 발음으로 인하여 을이 근무를 제공할 수 없을 경우 을은 그 월분의 보수전액을 청구할 수 있다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "제9조 (갑의 책임)"
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "을이 의약품의 조제. 취급. 판매 기타 관리로 인하여 신체 또는 생명에 손해를 입  었을 경우 을의 고의나 중대한 과실로 인한 손해가 아닌한 갑은 이를 배상하여야 한다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "제10조 (을의 책임과 보수의 공제)"
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "을은 갑으로부터 지시받은 가격으로 의약품을 판매 또는 조제하여  야 하며 이를 위반함으로 인하여 갑에게 손해를 발생케 할 경우 갑은 을을 즉시 해고하고 그 손해의 배상을 청구할 수 있다."
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "제11조 (사고로 인한 책임)"
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "을이 의약품 판매 또는 조제를 잘못(고의 또는 과실)함으로 인하여 타인에게 손해를 가하여 갑이 사용자로서의 손해를 부담할 경우 을은 갑이 입은 손해를  배상하여야 한다."
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "제12조 (계약의 해지)"
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "통지의무"
+                    ],
+                    "description": "을이 그 면허를 취소 또는 자격을 상실·정지당할 경우 갑은 이 계약을 해지하고 근무일까지의 보수를 지급하며 을이 제 4 조에 규정된 지시를 위반하거나 제 8 조의 가격을 위반하여 판매함으로서 고객이 현저히 감소한 경우에도 이 계약을 해지할 수 있다. 단 갑은 10일 전에 해지의 통고를 하여야 한다. 을은 갑이 보수의 지급을 50일 이상 지체하거나 약사법에 규정된 법규위반을 지시하여 노무의 제공을 받고자할 경우 계약을 해지할 수 있다. 이 경우 을은 갑에게 7일 이전에 계약해지의 통고를 하여야 한다."
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법"
+                    ],
+                    "description": "제13조 (관례의 적용)"
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법"
+                    ],
+                    "description": "기타 계약에 약정되지 아니한 사항은 관례에 따른다."
+                }
+            },
+            {
+                "id": "34",
+                "format": {
+                    "position": {
+                        "line": "34"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "이상의 계약을 준수키 위하여 갑·을은 계약서 2통을 작성 각 서명 날인한 후1통씩을 소지한다."
+                }
+            },
+            {
+                "id": "35",
+                "format": {
+                    "position": {
+                        "line": "35"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "20  년    월    일"
+                }
+            },
+            {
+                "id": "36",
+                "format": {
+                    "position": {
+                        "line": "36"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "갑: (인)\n주소 :"
+                }
+            },
+            {
+                "id": "37",
+                "format": {
+                    "position": {
+                        "line": "37"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "을: (인)\n주소 :"
+                }
+            }
+        ]
+    }
+}

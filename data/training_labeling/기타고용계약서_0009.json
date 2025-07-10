@@ -1,0 +1,1218 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0009",
+                "document_size": "79kb",
+                "document_page_count": "4",
+                "document_total_ids": "59",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-23",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법",
+                    "document_purpose": "파견사업주와 사용사업주 간의 근로자파견계약 체결 시 상호 준수해야 하는 사항을 규정하고, 파견근로자의 권리와 의무를 명확히 하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "다양한 산업 분야에서 근로자 파견 시 활용. 예를 들어, 제조업, 정보기술(IT) 산업, 서비스업 등에서 파견근로자를 고용하여 특정 기간 동안 필요 인력을 확보하고자 할 때 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "<근로자파견계약서 표준안>"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "파견사업주 와 사용사업주 는 「파견근로자보호 등 에 관한 법률」(이하 “파견법”이라 함) 제20조 및 같은 법 시행규칙 제11조에 따라 다음과 같이 근로자파견계약을 체결하고, 신의에 따라 성실히 이행할 것을 확약한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "제1조(목적)"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "이 계약은 파견사업주가 근로자를 사용사업주에게 파견하고 사용사업주가 그 파견근로자를 지휘․명령하여 사용사업주를 위한 근로에 종사시킴에 있어서 상호 준수 해야 하는 사항을 정함을 목적으로 한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제2조(개별계약)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "계약의 효력"
+                    ],
+                    "description": "이 계약서에서 정하는 사항 외에 각 파견근로자별 계약 내용은 별도로 정하되 이 계약서와 합하여 하나의 근로자파견계약으로 본다."
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제3조(계약당사자의 기본의무)"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "①파견사업주는 개별계약에서 정하는 바에 따라 근로자를 사용사업주에게 파견하여야 한다. 이 경우 파견사업주와 사용사업주는 상호 합의하여 파견근로자에 관한 별도의 자격요건을 정할 수 있으며, 파견사업주는 그 자격요건에 부합하는 근로자를 파견하여야 한다."
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "②사용사업주는 개별계약에서 정하는 바에 따라 파견사업주에게 파견대가를 지급하여야 하고, 파견근로자에 대한 근로조건 준수, 고용안정, 복지증진 등을 위해 노력하여야 한다."
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관계법령준수"
+                    ],
+                    "description": "③파견사업주와 사용사업주는 이 계약 규정 및 파견법, 근로기준법, 산업안전보건법 등 관련 법령을 준수하여야 한다."
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "제4조(계약기간)"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "①이 계약의 기간은 . . .부터 . . .까지로 한다."
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "②이 계약의 만기가 파견근로자의 파견근로 종료일보다 먼저 도래하는 때에는 파견 근로자의 파견근로 종료일까지 연장되는 것으로 본다."
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제5조(근로자파견사업 허가보유 등)"
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "①파견사업주는 제4조에 따른 계약기간 동안 파견 법령에 따른 근로자파견사업의 유효한 허가를 계속 보유하고 있어야 한다."
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "통지의무"
+                    ],
+                    "description": "②파견사업주는 이 계약기간 중 허가기간이 만료되었음에도 갱신허가를 받지 못하거나 허가취소 또는 영업정지를 받은 때에는 그 사실을 즉시 사용사업주와 파견근로자에게 통보하여야 한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "제6조(차별적 처우의 금지)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "선량한 관리자의 의무",
+                        "관계법령준수"
+                    ],
+                    "description": "①파견사업주와 사용사업주는 파견법 제2조제7호 각목의 사항에 있어서 파견근로자에 대하여 동종 또는 유사 업무를 수행하는 사용사업주의 근로자와 차별적 처우를 하여서는 안 된다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "②제1항의 차별적 처우가 발생하지 않도록 사용사업주는 개별계약 체결시 파견사업주에게 파견근로자와 동종 또는 유사 업무를 수행하는 사용사업주 소속 근로자에 대한 파견법시행령 제4조의2제1항에 따른 정보를 서면으로 제공해야 한다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제7조(사회보험의 가입 등)"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "관계법령준수"
+                    ],
+                    "description": "파견사업주는 관계 법령에 따라 파견근로자에 대한 고용보험, 산재보험 등에 가입하여야 하고, 법적 요건에 해당할 경우 퇴직급여(연금)제도도 설정하여야 한다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제8조(산업안전․보건)"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "관계법령준수"
+                    ],
+                    "description": "①사용사업주는 파견근로자의 안전과 건강을 유지․증진시키기 위하여 건강진단(다만 일반건강진단은 제외), 안전․보건교육, 사업장의 안전․보건 유지 및 관리 등 산업안전보건법에 따른 의무를 성실히 수행하여야 한다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "②파견사업주는 사용사업주의 안전․보건상의 조치가 미흡하여 파견근로자가 유해 또는 위험요인에 노출될 수 있거나 파견근로자의 건강관리가 제대로 이루어지지 않는다고 판단될 때에는 사용사업주에게 적절한 조치를 취하도록 요구할 수 있다. 이 경우 사용사업주는 파견사업주의 요구에 성실히 응해야 한다."
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "③파견사업주와 사용사업주가 파견근로자나 파견근로자의 지휘․명령자, 파견사업관리 책임자, 사용사업관리책임자 등으로부터 산업재해 발생 위험이 있다는 통보를 받은 때 에는 산업재해 예방조치가 이루어진 후에 파견근로자가 업무를 수행할 수 있도록 하여야 한다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관계법령준수"
+                    ],
+                    "description": "④파견근로자가 업무상 부상 또는 질병에 걸리거나 사망하는 경우 파견사업주와 사용사업주는 파견법, 산업재해보상보험법, 근로기준법 등 관계 법령에서 정한 바에 따라 보상 등 적절한 조치를 취하여야 한다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제9조(고충처리 등)"
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "①파견법령에 따라 파견사업주는 파견사업관리책임자를, 사용사업주는 파견근로자를 직접 지휘․명령할 자 및 사용사업관리책임자를 각각 지정 또는 선임하여 파견근로자에 대한 고충처리 등의 업무를 수행하도록 하여야 한다."
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "②파견사업주와 사용사업주가 파견근로자의 고충신고를 받은 때에는 상호 협조하여 파견근로자의 고충을 최대한 성실하고 신속하게 해결하여야 한다."
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제10조(파견근로자의 고용안정 등)"
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "①사용사업주는 파견법 제6조의2제4항에 따라 파견 근로자를 우선적으로 고용하는 등 파견근로자의 고용안정을 위해 노력하여야 한다."
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "②파견사업주는 파견법 제25조에 따라 정당한 이유 없이 파견근로자와의 고용관계 종료 후 사용사업주가 파견근로자를 직접 고용하는 것을 방해 또는 금지하는 행위를 하여서는 안 된다."
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제11조(자료제출)"
+                }
+            },
+            {
+                "id": "34",
+                "format": {
+                    "position": {
+                        "line": "34"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "사용사업주는 파견사업주에게 파견근로자에 대한 임금 지급내역, 사회보험 가입내역 등 파견근로자와의 계약이행에 관한 자료의 제출을 요구할 수 있다. 이 경우 파견사업주는 영업비밀에 해당하거나 관련 법령에 위배되지 않는 한 사용사업주의 요구에 성실히 응하여야 한다."
+                }
+            },
+            {
+                "id": "35",
+                "format": {
+                    "position": {
+                        "line": "35"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제12조(파견근로자의 교체 등)"
+                }
+            },
+            {
+                "id": "36",
+                "format": {
+                    "position": {
+                        "line": "36"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "통지의무"
+                    ],
+                    "description": "①파견사업주는 사용사업주의 사전 동의 없이 파견근로자를 교체할 수 없다. 다만 파견근로자의 휴직이나 퇴사 등으로 파견근로자를 교체할 수밖에 없는 부득이한 사유가 발생한 때에는 이를 즉시 사용사업주에게 통보하여야 한다."
+                }
+            },
+            {
+                "id": "37",
+                "format": {
+                    "position": {
+                        "line": "37"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "②사용사업주는 다음 각 호의 어느 하나에 해당하는 경우에 한하여 파견사업주에게 파견근로자의 교체를 요구할 수 있다."
+                }
+            },
+            {
+                "id": "38",
+                "format": {
+                    "position": {
+                        "line": "38"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 2,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "1.파견근로자가 파견근로와 관련하여 사용사업주의 정당한 업무상 지시를 고의 또는 정당한 이유 없이 이행하지 않는 경우"
+                }
+            },
+            {
+                "id": "39",
+                "format": {
+                    "position": {
+                        "line": "39"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 2,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "2.파견근로자의 업무수행 능력이 현저히 낮음으로 인해 파견근로와 관련된 업무를 수행하기 어렵다고 인정되는 경우"
+                }
+            },
+            {
+                "id": "40",
+                "format": {
+                    "position": {
+                        "line": "40"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 2,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "3.그밖에 위 제1호 내지 2호에 준하여 파견근로자가 파견근로와 관련된 업무를 계속 수행하기 어렵다고 인정할 수 있는 합리적․객관적 사유가 존재하는 경우"
+                }
+            },
+            {
+                "id": "41",
+                "format": {
+                    "position": {
+                        "line": "41"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "③제1항 내지 2항에 따라 파견근로자의 교체가 필요한 경우 파견사업주와 사용사업주는 파견근로자의 교체시기,새로운 파견근로자의 자격요건 등 구체적 사항에 관하여 성실히 협의해야 한다."
+                }
+            },
+            {
+                "id": "42",
+                "format": {
+                    "position": {
+                        "line": "42"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "제13조(계약의 해지 등)"
+                }
+            },
+            {
+                "id": "43",
+                "format": {
+                    "position": {
+                        "line": "43"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "①파견사업주와 사용사업주는 다음 각 호의 어느 하나에 해당 하는 경우 외에는 이 계약을 해지할 수 없다."
+                }
+            },
+            {
+                "id": "44",
+                "format": {
+                    "position": {
+                        "line": "44"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "1.상대방이 파견법,근로기준법 등 관계 법령 또는 이 계약 규정을 위반한 경우"
+                }
+            },
+            {
+                "id": "45",
+                "format": {
+                    "position": {
+                        "line": "45"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "2.상대방의 재산에 대한 가압류,압류,조세체납처분이 있는 경우"
+                }
+            },
+            {
+                "id": "46",
+                "format": {
+                    "position": {
+                        "line": "46"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "3.상대방이 해산,부도,회생,파산 선고를 받거나 그 신청을 한 경우"
+                }
+            },
+            {
+                "id": "47",
+                "format": {
+                    "position": {
+                        "line": "47"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": 4
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "4.파견사업주가 근로자파견사업의 허가취소 또는 영업정지 처분을 받은 경우"
+                }
+            },
+            {
+                "id": "48",
+                "format": {
+                    "position": {
+                        "line": "48"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": 5
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "5.그 밖에 위 제1호 내지 제4호에 준하여 이 계약을 유지하는 것이 어렵다고 인정할 수 있는 합리적․객관적 사유가 존재하는 경우"
+                }
+            },
+            {
+                "id": "49",
+                "format": {
+                    "position": {
+                        "line": "49"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": 6
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "6.계약해지를 상호 합의한 경우"
+                }
+            },
+            {
+                "id": "50",
+                "format": {
+                    "position": {
+                        "line": "50"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "통지의무"
+                    ],
+                    "description": "②파견사업주또는 사용사업주가 이 계약을 해지할 때에는 해지일로부터 1개월 전까지 상대방에게 그 사유를 명시하여 서면으로 통보하여야 그 효력이 발생한다. 다만 제1항 제4호의 사유의 발생한 때에는 사용사업주가 계약을 즉시 해지할 수 있다."
+                }
+            },
+            {
+                "id": "51",
+                "format": {
+                    "position": {
+                        "line": "51"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "③사용사업주에게 제1항의 계약해지 사유가 발생하고 파견근로의 계속으로 파견근로자에게 불이익이 발생할 우려가 있는 경우에는 파견사업주가 계약해지의 효력 발생 전이라도 파견을 즉시 정지할 수 있다."
+                }
+            },
+            {
+                "id": "52",
+                "format": {
+                    "position": {
+                        "line": "52"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "제14조(손해배상)"
+                }
+            },
+            {
+                "id": "53",
+                "format": {
+                    "position": {
+                        "line": "53"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 14,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "①파견근로자가 파견업무를 수행하는 중 불법행위로 인해 사용사업주 또는 제3자에게 손해를 입힌 때에는 민법 제756조에 따라 파견사업주가 이에 대한 책임을 지되,파견사업주가 파견근로자의 선발 및 일반적 지휘․감독권의 행사에 있어서 주의를 다한 때에는 그러하지 아니하다.이 경우 사용사업주(그 소속 직원도 포함한다)의 파견근로자에 대한 지휘․감독상의 과실이 있는 때에는 사용사업주도 책임을 진다."
+                }
+            },
+            {
+                "id": "54",
+                "format": {
+                    "position": {
+                        "line": "54"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 14,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "②제1항 외에 파견사업주또는 사용사업주가 파견법,근로기준법 등 관계 법령이나이 계약에 위반하여 상대방에게 손해를 입힌 때에는 민법 등 관계 법령에 따라 이를 배상한다."
+                }
+            },
+            {
+                "id": "55",
+                "format": {
+                    "position": {
+                        "line": "55"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 15,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "제15조(계약서의 작성․보관)"
+                }
+            },
+            {
+                "id": "56",
+                "format": {
+                    "position": {
+                        "line": "56"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 15,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "이 계약의 유효함을 증명하기 위하여 계약서 2부를 작성하여 파견사업주와 사용사업주쌍방이 날인하고 각각 1통씩 보관한다."
+                }
+            },
+            {
+                "id": "57",
+                "format": {
+                    "position": {
+                        "line": "57"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "년 월 일"
+                }
+            },
+            {
+                "id": "58",
+                "format": {
+                    "position": {
+                        "line": "58"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항",
+                        "피고용인의 기명날인"
+                    ],
+                    "description": "파견사업주\n상 호 :\n주 소 :\n연락처 :\n대 표 : (서명 또는 날인)"
+                }
+            },
+            {
+                "id": "59",
+                "format": {
+                    "position": {
+                        "line": "59"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "사용사업주\n상 호 :\n주 소 :\n연락처 :\n대 표 : (서명 또는 날인)"
+                }
+            }
+        ]
+    }
+}

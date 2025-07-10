@@ -1,0 +1,630 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "아르바이트계약서_0009",
+                "document_size": "86kb",
+                "document_page_count": "2",
+                "document_total_ids": "30",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-25",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "아르바이트계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법, 근로기준법 시행령",
+                    "document_purpose": "아르바이트 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "일반적인 소매업, 서비스업 등 다양한 산업 분야에서 아르바이트 근로자를 고용할 때 활용. 특히 단기 근로자와의 계약 체결 및 근로 조건을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "아르바이트 근로 계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "사업자 ○○○ (이하 “사업주”라 칭한다)와 근로자 ○○○○ (이하 “근로자”라 칭한다)는 다음과 같이 아르바이트 근로 계약을 체결한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근무 장소"
+                    ],
+                    "description": "[제 1 조] 근무장소"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근무 장소"
+                    ],
+                    "description": "1) 부 서 명 :"
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "담당 업무"
+                    ],
+                    "description": "2) 담당업무 :"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간"
+                    ],
+                    "description": "[제 2 조] 근로시간"
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 계약 기간"
+                    ],
+                    "description": "1) 근무기간 : 20 년 월 일 ～ 20 년 월 일"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간"
+                    ],
+                    "description": "2) 평 일 :"
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간"
+                    ],
+                    "description": "3) 토 요 일 :"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "[제 3 조] 급여"
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "1) 급여액 산정 : 시간당 ○○○원 × 근로시간"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타급여"
+                    ],
+                    "description": "2) 식  대 : 1일 식대 ○○○원정을 별도로 실제 근무일수 만큼 매월 말일 현금지급"
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금 지급일"
+                    ],
+                    "description": "3) 지급일 : 매월 말일 마감하여 익월 ○일 “근로자”의 은행계좌로 현금입금"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타급여"
+                    ],
+                    "description": "[제 4 조] 무단결근"
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타급여"
+                    ],
+                    "description": "1) ○회 이상 무단결근 시 아르바이트 관계를 종료한다."
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "2) ○○분 이상 지각이 ○회 발생 시 무단결근 ○일로 간주하여 해당 금액을 삭감한다. 다만, 객관적이고 합리적 이유가 존재 시에는 예외로 한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타급여"
+                    ],
+                    "description": "[제 5 조] 신의성실"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "1) “근로자”는 주어진 업무를 신의성실에 의거하여 수행하여야 한다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "2) “근로자”는 업무 수행 상 고의 또는 중과실로 “사업주”에게 손해를 입혔을 시에는 이를 배상하여야 한다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "3) “근로자”는 본 계약으로 인하여 지득한 “사업주”의 영업 비밀을 외부에 누설하지 아니한다."
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "4) “근로자”는 “사업주”의 업무지시에 순응하여야 한다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타급여"
+                    ],
+                    "description": "[제 6 조] 퇴사"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "1) “근로자”는 계약기간 도중에 퇴사 시에는 2주전에 미리 “사업주”에게 통지하고 “사업주”는 근로일 만큼의 급여액을 퇴사일에 “근로자”에게 현금지급 한다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "2) “사업주”가 계약기간 도중에 “근로자”에게 퇴사를 요구할 시에도 제1항에 따른다."
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "3) 본조의 퇴사 신청에 대해 계약 당사자 쌍방은 상대방에 대하여 일체의 이의를 제기하지 아니하며 급여를 지급하여 주는 것으로서 계약관계는 종료된다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "4) 본조 각항의 규정에도 불구하고 아르바이트 기간이 근로 기준법에 따라 소정의 기간에 해당될 시에는 동법에 따라 해고 예고기간 또는 해고수당의 규정을 준용한다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "“사업주”와 “근로자”는 본 계약의 성립을 증명하며 계약서 2부를 작성하여 각각 서명(또는 기명) 날인 하여 각 1부씩 보관한다."
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "20  년 월   일"
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "사용자의 인적사항",
+                        "사용자의 기명날인"
+                    ],
+                    "description": "“사업주”\n상 호 :\n대표이사 : (인)\n주 소 :"
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로자의 기명날인",
+                        "근로자의 인적사항"
+                    ],
+                    "description": "“근로자”\n주민번호 :\n성 명 : (인)\n주 소 :"
+                }
+            }
+        ]
+    }
+}

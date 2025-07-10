@@ -1,0 +1,497 @@
+[
+  {
+    "text": "모델 출연 표준계약",
+    "chunk_length": 10,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "광고주OO주식회사(이하 '브랜드'이라 한다)와 주식회사 (@회사명)(이하 ‘플랫폼’이라 한다)의 소속모델인 OOO(이하 '모델'이라 한다)사이에 아래와 같이 광고모델 출연계약을 체결 한다. ",
+    "chunk_length": 106,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "'브랜드'과 ‘플랫폼’과 ‘모델’은 위와 같이 계약을 체결하고 이를 증명하기 위해 계약서 2부를 작성하여 계약당사자들이 기명 날인한 후 각각 1부씩 보관한다.",
+    "chunk_length": 88,
+    "type": "후문",
+    "content_labels": [
+      "계약서의 교부"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "20 년 월 00일",
+    "chunk_length": 10,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "'브랜드'\n주 소 :\n상 호 :\n대 표 자 :\n날 짜 :",
+    "chunk_length": 31,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 인적사항",
+      "회사의 기명날인"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "‘플랫폼’\n주 소 : (@주소)\n상 호 :주식회사 (@회사명)\n대 표 자 : (@성명) 【인】\n날 짜 : 20 년 월 일",
+    "chunk_length": 67,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 기명날인",
+      "회사의 인적사항"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "'모델'\n주 소 :\n성 명 : 【인】\n날 짜 : 20 년 월 일",
+    "chunk_length": 35,
+    "type": "기명날인",
+    "content_labels": [
+      "피고용인의 인적사항",
+      "피고용인의 기명날인"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 【목적】\n본 계약은 '브랜드'의 광고물에 '모델’이 출연함에 있어 ‘브랜드’, ’플랫폼’, ’모델’의 권리와 의무를 명확히 규정함을 그 목적으로 한다. ",
+    "article_number": 1,
+    "article_title": "제1조 【목적】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 89,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 목적"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 【계약의 범위】\n① ‘모델’의 출연은 ‘브랜드’에 대한 아래의 매체 광고로 한다.\n- OOO\n- OOO\n② 본 계약의 유효기간은 YY.MM DD.부터 YY.MM DD. 까지로 한다\n",
+    "article_number": 2,
+    "article_title": "제2조 【계약의 범위】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 105,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제3조 【계약조건】\n① 제작물의 사용기간은 제작물이 광고매체에 방영 또는 게재되는 날로부터 O년으로 한다.\n② 제작물의 방영일은 촬영시부터 O개월 이내로 한다.",
+    "article_number": 3,
+    "article_title": "제3조 【계약조건】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 89,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제4조 【출연료 지불조건】\n① ‘모델’의 출연료는 O%의 ‘플랫폼’ 수수료를 포함한 일금 원 (부가세 별도)/H 이다.\n② 초과 촬영시간에 대한 출연료는 ₩        /H(부가세 별도) 이며, 총 출연료는 ①항의 출연료에 초과촬영분에 대한 보수액과 수수료를 더하여 산정한다.\n③ ‘브랜드’는 ‘모델’의 촬영일로부터 O영업일 이내에 출연료 전액을 ‘플랫폼’ 명의 계좌로 전액 현금 지급한다. (OO 은행 OOO-OOO-OOO)\n④ ‘플랫폼’은 위 출연료 금액에서 제세공과금을 공제한 금액을 7 영업일 이내에 ‘모델’의 계좌로 전액 현금 지급한다. (OO 은행 OOO-OOO-OOO)\n⑤ 본조 제1항의 출연료의 지급일이 제3항의 기일을 도과하는 경우, ‘브랜드’는 ‘플랫폼’에 해당 수수료의 연12%에 해당하는 지연이자를 출연료와 함께 지불해야 한다.",
+    "article_number": 4,
+    "article_title": "제4조 【출연료 지불조건】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 420,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "계약금의 지급"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제5조 (통지의무)\n을은 수입상 기타 제3자로부터 CLAIM 통지 등, 이 수출업무와 관련된 통지를 받았을 때에는 지체 없이 동 사실을 갑에게 고지하여야 하며, 고지하지 않아 발생된 손실에 대하여서는 을이 책임을 진다.",
+    "article_number": 5,
+    "article_title": "제5조 (통지의무)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 122,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "통지의무"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제6조 (효력의 발생)\n본 계약은 계약체결일로부터 효력을 발생한다.",
+    "article_number": 6,
+    "article_title": "제6조 (효력의 발생)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 37,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 효력"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제7조 【저작권 귀속】\n‘모델’이 출연하여 완성된 광고물의 저작권 및 저작인접권(초상권 포함)은 ‘브랜드’에게 귀속되며, 계약기간 내에 ‘브랜드’는 ‘모델’이 출연한 광고물을 이용하여 2차 제작물 및 편집 제작물로 활용할 권리를 가진다.",
+    "article_number": 7,
+    "article_title": "제7조 【저작권 귀속】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 132,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "지적재산권"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제8조 【신의성실 및 상호협조의무】\n계약당사자들은 본 계약을 신의에 따라 성실하게 이행하여야 한다.",
+    "article_number": 8,
+    "article_title": "제8조 【신의성실 및 상호협조의무】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 55,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "신의성실"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제9조 【계약 변경】\n계약당사들 전원의 서면 합의에 의하지 아니하고는 본 계약의 내용을 변경할 수 없다.",
+    "article_number": 9,
+    "article_title": "제9조 【계약 변경】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 58,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약 변경에 대한 합의"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제10조 【브랜드의 준수 사항】\n① ‘브랜드’는 계약서에 명시되고 사전에 ‘플랫폼’과 논의된 범위의 촬영만을 진행하며, 촬영 당일 합의되지 않은 내용의 촬영(예)위험을 동반하거나, 합의되지 않은 노출 등)을 진행하지 않는다. \n② ‘브랜드’는 촬영 현장에서 ‘모델’에게 촬영 취지를 벗어난 무리한 요구를 강요하거나, 촬영 중 고압적인 태도로 지시하는 것을 지양한다. ",
+    "article_number": 10,
+    "article_title": "제10조 【브랜드의 준수 사항】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 205,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "관계법령준수",
+      "신의성실"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제11조 【을의 준수 사항】\n‘플랫폼’은 온라인 중개 ‘플랫폼’으로서 관련 법령 및 가이드라인을 준수할 의무가 있다.",
+    "article_number": 11,
+    "article_title": "제11조 【을의 준수 사항】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 65,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "관계법령준수"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제12조 【모델의 준수 사항】\n① ‘모델’은 ‘브랜드’이 지정한 촬영시각을 준수하며, 전문모델로서 자질과 품위를 유지할 의무가 있다.\n② ‘모델’은 ‘브랜드’이 섭외를 결정할 당시의 피부나 모발상태, 촬영취지에 부합하는 체형 등의 외관을 유지하며, 예기치 못한 사고로 인해 이에 대한 변경이 있을 시 즉시 ‘플랫폼’ 에게 통보해야 한다.\n③ ‘모델’은 ‘브랜드’이나 ‘브랜드’의 제품에 대하여 이미지를 손상시키거나 기업활동을 저해하는 일체의 활동을 해서는 안 된다.\n④ ‘모델’은 ‘브랜드’가 지정한 촬영시각을 준수해야 한다.",
+    "article_number": 12,
+    "article_title": "제12조 【모델의 준수 사항】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 294,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "관계법령준수",
+      "신의성실"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제13조 【기밀유지】\n계약당사자들은 본 계약기간동안 본 계약에 관한 일체에 대한 사항을 기밀로 유지해야 한다.",
+    "article_number": 13,
+    "article_title": "제13조 【기밀유지】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 61,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "비밀 유지"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제14조 【계약의 해제 또는 해지】\n① 정당한 사유 없이 본 계약상의 의무를 위반한 경우 서면으로 통지한 후 계약을 즉시 해제 또는 해지할 수 있다.\n② 제1항에 따른 사유로 계약이 해지되는 경우, 해지된 시점까지 발생한 광고물에 대한 저작권은 해지에 대한 귀책사유가 없는 일방에게 귀속된다.\n③ 본 계약이 해제 또는 해지된 후에도 제13조의 기밀유지의무조항은 해제 또는 해지된 시점으로부터 2년간 유효하다.",
+    "article_number": 14,
+    "article_title": "제14조 【계약의 해제 또는 해지】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 228,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "계약의 해제, 해지"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제15조 【계약 해제 또는 해지의 효력】\n① 계약 해제 또는 해지의 통보는 상대방에 도달한 날로부터 유효하다.\n② 계약이 해제 또는 해지된 경우, 계약 당사자들은 본 계약에 따른 업무 수행을 중단하고 추가 비용 발생을 최소화하기 위해 즉각적으로 적절한 방책을 취해야 한다.\n③ 본 계약의 일부 조항이 효력을 상실하거나 이행이 불가능하게 되더라도, 잔존 조항들은 그 효력을 유지한다.",
+    "article_number": 15,
+    "article_title": "제15조 【계약 해제 또는 해지의 효력】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 213,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "계약의 해제, 해지"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제16조 【손해배상】\n① 본 계약이나 관련 법령을 위반하여 상대방에게 손해가 발생할 경우, 계약을 위반한 당사자는 상대방이 입은 손해를 배상하여야 한다.\n② 천재지변, 폭동, 전쟁 등과 같은 불가항력으로 인한 계약상 의무의 불이행이나 이행 지연으로 인한 손해에 대하여는 책임지지 아니한다.\n③ 촬영 스케쥴 확정 이후 ‘브랜드’이 일방적으로 일정을 취소한 경우, ‘브랜드’는 ‘플랫폼’ 및 ‘모델’에게 아래의 출연료를 지급할 의무가 있다.\n- 촬영예정일로부터 O일 전 취소 시: 전체 출연료의 O%\n- 촬영예정일로부터 O일 전 취소 시: 전체 출연료의 O %\n- 촬영예정일로부터 O일 전 취소 시: 전체 출연료의 O %\n④ ‘모델’의 일방적인 사정으로 촬영 스케쥴에 지장을 주는 등의 손해가 ‘브랜드’에게 발생한 경우, ‘모델’은 본조 제①항의 손해배상과는 별도로 계약금의 2배에 해당하는 위약금\n⑤ ‘모델’이 용역수행과 관련하여 ‘브랜드’ 또는 제3자에게 손해배상 등의 청구를 당한 경우, ‘모델’이 자신의 비용으로 그 책임을 부담해야 한다.",
+    "article_number": 16,
+    "article_title": "제16조 【손해배상】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 527,
+    "items_count": 6,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제17조 【계약의 해석】\n본 계약의 내용 또는 본 계약에 기재되지 않은 사항에 관하여 해석에 이견이 있을 경우에는 계약당사자들이 상호 협의하여 정하며, 그 외의 사항은 민법규정에 따른다.",
+    "article_number": 17,
+    "article_title": "제17조 【계약의 해석】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 104,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "준거법"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제18조 【관할법원】\n본 계약은 대한민국 법령에 따라 규율 되고 해석되며, 본 계약으로 또는 이로 인한 분쟁발생시에는 지방법원을 그 관할 법원으로 한다.",
+    "article_number": 18,
+    "article_title": "제18조 【관할법원】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 85,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "관할법원"
+    ],
+    "document_title": "기타고용계약서_0188",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-07",
+    "document_category": "고용계약",
+    "related_law": "저작권법, 민법",
+    "document_purpose": "광고산업에서 광고주와 모델 간의 출연 조건, 권리, 의무를 명확히 규정하고 출연계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "광고 제작 과정에서 모델과 광고주 간의 출연 계약을 체결할 때 활용. 특히 광고 매체에서 모델의 출연 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

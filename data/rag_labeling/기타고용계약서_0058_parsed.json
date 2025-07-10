@@ -1,0 +1,358 @@
+[
+  {
+    "text": "근로자파견계약서(개별계약)",
+    "chunk_length": 14,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "사용사업주 (@회사명1)(이하“갑”이라 함)와 파견사업주 (회사명2)(이하“을”이라 함)은 다음과 같은 근로 조건에 의해 파견계약을 체결한다.",
+    "chunk_length": 79,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(@날짜)",
+    "chunk_length": 5,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“갑”\n(@주소2)\n(@회사명1) 대표이사 (@성명4) (인)",
+    "chunk_length": 34,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 기명날인",
+      "회사의 인적사항"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“을”\n(@주소3)\n(@회사명2) 대표이사 (@성명5) (인) ",
+    "chunk_length": 35,
+    "type": "기명날인",
+    "content_labels": [
+      "피고용인의 기명날인",
+      "피고용인의 인적사항"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. 파견기간\n(@날짜) - (@날짜)",
+    "article_number": 1,
+    "article_title": "1. 파견기간",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 21,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약기간"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. 근로장소\n(@주소1)",
+    "article_number": 2,
+    "article_title": "2. 근로장소",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 14,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "3. 파견업무내용\n(@업무)\n파견사유 : 일시,간헐적 사유",
+    "article_number": 3,
+    "article_title": "3. 파견업무내용",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 32,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 관리책임자\n○ 파견사업주 - 관리책임자 : (@성명1) (@직책)\n○ 사용사업주 - 관리책임자 : (@성명2) (@직책)(지휘책임자 :  (@성명3) )",
+    "article_number": 4,
+    "article_title": "4. 관리책임자",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 88,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "5. 근무시간\n○ 주간 : 09:00~18:00 (단 주 40시간 범위내에서 근무 시·종업시간을 조정한다.)",
+    "article_number": 5,
+    "article_title": "5. 근무시간",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 60,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "6. 휴일\n․유급주휴일 : 매주   요일(다만 업무특성에 따라 합의시 다른 날로 조정가능)\n․유급휴일 : 근로자의 날(매년 5월 1일)\n․그 외 휴일 :\n근로기준법 제10조에 따라 공민권 행사 등을 위한 시간은 따로 부여함",
+    "article_number": 6,
+    "article_title": "6. 휴일",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 124,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "7. 휴가\n근로기준법, 파견법 등 관계 법령 및 사용사업주 “갑”의 취업규칙에서 정한 바와 같음",
+    "article_number": 7,
+    "article_title": "7. 휴가",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 53,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "8. 휴게시간\n주간 : PM 12:00~ PM 13:00 (중식)",
+    "article_number": 8,
+    "article_title": "8. 휴게시간",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 36,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "9. 시간외, 야간, 휴일근무\n근로기준법, 파견법 등 관계 법령 및 사용사업주“갑”의 취업규칙에서 정한 바와 같음",
+    "article_number": 9,
+    "article_title": "9. 시간외, 야간, 휴일근무",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 63,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "10. 안전 및 보건에 관한 사항\n“을”은 파견근로자가 “갑”의 사업장에 명시된 안전보건관리규정을 준수하도록 주지하여야 한다. (단, “갑”은 파견근로자의 업무수행 과정에서 산업 안전보건에 대한 예방교육 등의 조치를 취하여야 한다.)",
+    "article_number": 10,
+    "article_title": "10. 안전 및 보건에 관한 사항",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 130,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용",
+      "관계법령준수"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "11. 파견사원 수 및 파견근로자 인적사항\n○ 파견사원 수 :  (@숫자) 명 (인원 증감 가능하고, 근무자 명단은 사용 시 별첨 게재)\n파견근로자 인적사항(붙임참조)",
+    "article_number": 11,
+    "article_title": "11. 파견사원 수 및 파견근로자 인적사항",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 93,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "12. 계약금액\n∞계약금액:1인, 1일 주간(09:00-18:00) (@금액)원,야간(21:00-06:00)(@금액)원(VAT.별도)\n1인, 1일 주간(09:00-21:00)(@금액)원, 야간(21:00-09:00)(@금액)원(VAT.별도)\n∞ 지불방법 : “을”은 매월 말일 마감 정산 청구하고 “갑”은 익월 5일 온라인 송금한다.",
+    "article_number": 12,
+    "article_title": "12. 계약금액",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 186,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "계약금의 지급"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "13. 기타\n∞ 근로자의 정당한 해고사유 발생 시 해고예고통보서 전달에 필요한 1개월전에 “갑”은 “을”에게 해고사유 및 일정을 알리고, “을”은 근로자에게 1개월전 해고예고 통보 한다.\n∞ 사용사업주의 귀책 사유로 인해 근로자의 임금을 지급하지 못한 때에는 사용사업주는 당해 파견사업주와 연대하여 책임을 진다.\n∞ 기타 본 계약에 의하지 않은 사항에 대하여는 파견근로자보호 등에 관한 법률을  준용한다.\n∞ “갑”은 파견근로자를 정규직 전환시 “을”에게 별도 수수료를 지급한다.(별첨참조)\n∞  본 계약서는 “갑”과 “을”이 1부씩 보관한다.",
+    "article_number": 13,
+    "article_title": "13. 기타",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 304,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0058",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "파견근로자보호 등에 관한 법률, 근로기준법, 산업안전보건법",
+    "document_purpose": "사용사업주와 파견사업주 간에 파견근로자의 근로조건, 권리, 의무를 명확히 규정하고 파견계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "파견근로자를 필요로 하는 다양한 산업 분야에서 활용. 특히 일시적, 간헐적 업무를 수행하는 근로자가 필요한 경우, 사용사업주와 파견사업주 간의 계약을 체결하여 근로 조건과 권리를 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

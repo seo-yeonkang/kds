@@ -1,0 +1,334 @@
+[
+  {
+    "text": "근 로 계 약 서",
+    "chunk_length": 9,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "ㅇㅇㅇ 대리점 (이하”갑” 이라 함)과 (이하”을” 이라 함)은 다음과 같이 근로계약을 체결하고 이를 성실히 이행할 것을 약정한다.",
+    "chunk_length": 73,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제7조 (임금)",
+    "chunk_length": 8,
+    "type": "본문",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "년 월 일",
+    "chunk_length": 5,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(갑) 대 리 점 : (전화: )\n사업자등록번호:\n주 소 :\n대 표 자 : (서명/인)",
+    "chunk_length": 48,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(을) 성 명 : (서명/인)\n생 년 월 일:\n주 소 : (전화: )",
+    "chunk_length": 38,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 인적사항",
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 (근로계약기간)\n“갑”과 “을”은 년 월 일부터 근로계약을 체결한 것으로 한다. 단, 상호 합의에 의하여 계약기간을 명시할 수 있다. ( ~ 년 월 일까지)\n(추가) 또한 “갑”의 사정에 의하여 ( ) 개월간 수습사원으로 자격을 유지하며 해당기간 급여는 월 기본급여의 %를 지급하는 것으로 한다.",
+    "article_number": 1,
+    "article_title": "제1조 (근로계약기간)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 169,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 (시간외 및 특별근무에 관한 상여금)\n“갑”이 규정한 근로시간을 초과하여 근무하거나, 특별히 위험한 노선에 차량을 운전하는 경우 “을”은 이에 상당한 수당 및 기타 보상을 지급하여야 한다.",
+    "article_number": 2,
+    "article_title": "제2조 (시간외 및 특별근무에 관한 상여금)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 109,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "상여금"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제3조 (근무장소)\n“을”은 해당 대리점을 근무장소로 하고, “갑”의 필요에 따라 업무직원으로서 업무수행을 위한 별도의 장소를 정할 수 있다.",
+    "article_number": 3,
+    "article_title": "제3조 (근무장소)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 79,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근무 장소"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제4조 (업무의 내용)\n“을”은 “갑”의 차량계약과 출고 관련 제반 업무 및 서무 업무를 포함한 대리점 제반 업무를 담당한다.",
+    "article_number": 4,
+    "article_title": "제4조 (업무의 내용)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 70,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제5조 (근로시간 및 휴게)\n“을”의 근로시간은 시 분 부터 시 분까지로 하고, 휴게시간은 “갑”의 통상적인 관례에 따른다.",
+    "article_number": 5,
+    "article_title": "제5조 (근로시간 및 휴게)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 69,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근로 시간",
+      "휴게 시간"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제6조 (근무일 및 휴일)\n“을의 근로일은 매주 월요일부터 금요일까지로 하며, 다만 토요일의 경우 제반 여건을 고려하여 “갑”의 통상적인 관례에 따른다. 주 휴일은 법정공휴일을 포함하여 “갑”의 통상적인 관례에 따른다.",
+    "article_number": 6,
+    "article_title": "제6조 (근무일 및 휴일)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 122,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근로 시간",
+      "휴일"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1.“을”의 월 급여는 원, 상여금은 ( %, 원)\n2.기타 급여(제수당)은 ( 원),\n3.연봉 ( )을 12개월로 나누어 지급한다.(선택)\n4.퇴직금은 ( )으로 한다.\n5.임금 지급일은 매월 일로 하며 (휴일의 경우는 익일 지급) “을” 명의의 예금통장에 입금한다.",
+    "article_number": 7,
+    "article_title": "1.“을”의 월 급여는 원, 상여금은 ( %, 원)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 150,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "임금액",
+      "상여금"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제8조 (을의 책무)\n1.“을”은 “갑”이 지정하는 교육 및 각종 회의에 참석하여 교육내용 및 지도 내용을 숙지하고 이행하도록 적극적으로 협조하여야 한다.\n2.“을”은 맡은 바 업무에 최선을 다해 성실하게 처리하여야 하며, “갑” 및 “갑”과 계약관계인 현대자동차가 정한 관리 지침을 성실히 수행해야 한다.\n3.“을”은 “갑”의 사전 동의 없이는 “갑”과의 계약관계에서 체득한 “갑”의 영업상의 기밀(“을”에게 제공된 정보, 업무시스템, 메뉴얼을 포함), Know-how, 기타 “갑”의 이익을 해치는 사항은 계약기간 중은 물론 계약종료 후라도 제3자에게 알리거나 제공하여서는 안 된다.",
+    "article_number": 8,
+    "article_title": "제8조 (을의 책무)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 328,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제9조 (담보 제공 및 손해의 배상)\n“을”은 본 계약에 의하여 또는 본 계약과 관련하여 “갑”에게 부담하게 될 일체의 채무를 담보하기 위하여 “갑”이 요구하는 내용의 담보를 제공하여야 하며, “을”이 본 계약상의 제 규정 및 취지에 위배되는 행위나 불법행위 또는 부당한 업무처리로 인하여 “갑” 또는 “갑”의 고객에게 손해가 끼쳤을 경우에는 즉각 그 손해를 배상하여야 한다.",
+    "article_number": 9,
+    "article_title": "제9조 (담보 제공 및 손해의 배상)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 210,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제10조 (계약의 해지)\n1.“갑”은 다음 각호의 경우에 해지하고자 하는 날로부터 1개월 전에 서면으로 계약해지를 할 수 있다.\n1) “을”이 고의 또는 중대한 과실로 인하여 “갑”의 명예를 훼손하거나, 금전적 손해를 가져오게 하였을 때\n2) “을”의 근무태만, 출퇴근 시간 미 엄수, 기타 업무능력이 현저히 떨어질 경우를 포함하여 더 이상 본 계약을 존속시킴이 부적합하다고 판단될 때\n3) “갑”의 경영상의 이유로 불가피하게 인원조정이 필요할 때\n2.“을”이 근로계약을 더 이상 유지하기 어려운 중대한 사유가 발생할 경우, “을”은 즉시 “갑”에게 통보하여야 하며 단, 자동차 판매관련 업무의 특성상 3개월의 인수인계 기간을 두고 “을”은 이를 성실히 이행하여야 한다.",
+    "article_number": 10,
+    "article_title": "제10조 (계약의 해지)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 375,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제11조 (기타)\n본 계약서에 명시되지 아니한 사항은 “갑”의 업무지침 및 관계법규, 주무부처의 해석에 따른다.",
+    "article_number": 11,
+    "article_title": "제11조 (기타)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 62,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0136",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 자동차관리법",
+    "document_purpose": "자동차 판매 대리점에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "자동차 판매 대리점에서 근로자와의 계약을 체결할 때 활용. 특히 차량 계약, 출고 관련 업무 수행 및 대리점 내 다양한 업무 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

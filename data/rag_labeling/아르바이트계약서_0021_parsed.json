@@ -1,0 +1,313 @@
+[
+  {
+    "text": "편의점 아르바이트 계약서",
+    "chunk_length": 13,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "○○편의점(이하 “갑”이라 칭한다)과 아르바이트 근무자 ○○○(이하 “을”이라 칭한다)는 다음과 같이 아르바이트 계약을 체결한다.",
+    "chunk_length": 72,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 (근무지)",
+    "chunk_length": 9,
+    "type": "본문",
+    "content_labels": [
+      "근무 장소"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. 휴게시간 :",
+    "chunk_length": 9,
+    "type": "본문",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. “을”이 ○개월 근무에 있어서 지각을 한번도 하지 아니하고 근무태도가 성실한 경우에는 “갑”은 ○일치 급여에 상당하는 금액을 만근수당으로 “을”에게 지급한다.",
+    "chunk_length": 91,
+    "type": "본문",
+    "content_labels": [
+      "기타급여"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "위와 같이 본 계약이 유효하게 성립하였음을 각 당사자는 증명하면서 본 계약서 2통을 작성하여, 각각 서명(또는 기명)날인 후 “갑”과 “을”이 각각 1통씩을 보관한다.",
+    "chunk_length": 93,
+    "type": "후문",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "계약일자 : 20  년   월   일",
+    "chunk_length": 20,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(갑) \n주 소 :\n회 사 명 :\n대 표 자 : ○ ○ ○ (인)\n연 락 처 :",
+    "chunk_length": 44,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(을) \n주 소 :\n주민번호 :\n성 명 : ○ ○ ○ (인)",
+    "chunk_length": 33,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 기명날인",
+      "근로자의 인적사항"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. “을”은 지급된 물품에 대한 보관 관리에 만전을 기하며 훼손, 분실 등이 발생하지 않도록 하여야 한다.",
+    "article_number": 1,
+    "article_title": "1. “을”은 지급된 물품에 대한 보관 관리에 만전을 기하며 훼손, 분실 등이 발생하지 않도록 하여야 한다.",
+    "chunk_length": 60,
+    "type": "article",
+    "content_labels": [
+      "근무 장소"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 【 근무시간 】\n1. 근무시간 :\n3. 휴 무 일 :",
+    "article_number": 2,
+    "article_title": "제2조 【 근무시간 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 33,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "근로 시간"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제3조 【 계약기간 】\n1. 본 계약서 작성일로부터 1년간으로 한다.\n2. 아르바이트를 그만둘 시에는 20일 이전에 “갑”에게 통지하여 후임자를 뽑을 수 있도록 하여야 한다.",
+    "article_number": 3,
+    "article_title": "제3조 【 계약기간 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 97,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제4조 【 급  여 】\n1. 시간당 일금 원정 (\\ )으로 계산하여 매월 말일 정산하여 익월 5일에 “을”의 계좌로 현금입금 한다.\n2. 지각이 ○분을 초과할 시에는 ○시간의 임금을 공제하며 ○분 이상 지각회수가 ○개월 ○회 이상이 될 시에는 ○일치 급여를 공제한다. 이러한 경우 “갑”은 근로관계의 종료를 취할 수 있다.",
+    "article_number": 4,
+    "article_title": "제4조 【 급  여 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 180,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제5조 【 근무수칙 】\n1. 출근 즉시 매장의 물품을 정리하고 편의점 내부의 청소를 시행한다.\n2. 고객에 대하여 언제나 친절하게 대하여 고객의 불만이 발생하지 않도록 한다.\n3. 고객이 수표 등의 제시를 한 경우 반드시 해당 수표 등의 위조여부를 사전에 확인하고 고객의 연락처 등의 기재유무를 확인 후 결제를 행한다.\n4. 퇴근 시 물건의 정리정돈 및 후임자의 근무에 차질이 없도록 한다.\n5. 점장의 업무지시에 성실히 응하여야 한다.",
+    "article_number": 5,
+    "article_title": "제5조 【 근무수칙 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 244,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제6조 【 지급품 관리 】\n1. “을”은 지급된 물품에 대한 보관 관리에 만전을 기하며 훼손, 분실 등이 발생하지 않도록 한다.\n2. “을”은 바코드 인식기, 카드 결제기 등의 업무관련 물품의 고장 발생 시 즉각 점장에게 이를 고지하고 관련 조치를 취하여야 한다.",
+    "article_number": 6,
+    "article_title": "제6조 【 지급품 관리 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 147,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제7조 【 물품정리 】\n1. “을”은 판매된 물품의 수시적 재 진열 및 고객이 희망하는 부족물품에 대하여 점장에게 통지한다.\n2. 판매물품이 매장에서 모두 소진되었을 시 “을”은 즉각 점장에게 이를 통지하고 해당 물품의 보충이 이루어지도록 한다.",
+    "article_number": 7,
+    "article_title": "제7조 【 물품정리 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 137,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제8조 【 만근수당 등 】\n2. 제1항의 만근수당 이외에 “을”이 특별히 “갑”에게 기여한 공로가 크다고 인정할 시에는 “갑”은 별도의 수당을 지급할 수 있다.",
+    "article_number": 8,
+    "article_title": "제8조 【 만근수당 등 】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 89,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타급여"
+    ],
+    "document_title": "아르바이트계약서_0021",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "편의점 아르바이트 근무자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "편의점에서 아르바이트 근무자와의 계약을 체결할 때 활용. 특히 근무지, 근무시간, 급여, 근무수칙 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

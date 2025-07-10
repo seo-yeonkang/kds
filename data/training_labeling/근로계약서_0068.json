@@ -1,0 +1,675 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "근로계약서_0068",
+                "document_size": "80kb",
+                "document_page_count": "2",
+                "document_total_ids": "32",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-25",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "근로(고용)계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법, 형법",
+                    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "일반적인 회사에서 직원 채용 시 근로조건, 급여, 퇴직금, 비밀유지 등의 조건을 명확히 하여 계약을 체결할 때 활용.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "근로계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "주식회사 (@회사명1)(이하 \"갑\") 과 “   “(이하 \"을\")는(은) 다음과 같이 상호 합의한 근로계약을 체결하고 상호 성실히 이행할 것을 약정합니다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 계약 기간"
+                    ],
+                    "description": "1 근로개시일 :"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 계약 기간"
+                    ],
+                    "description": "(@날짜) *재계약일: (수습인경우)"
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근무 장소"
+                    ],
+                    "description": "2 근무장소 :"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근무 장소"
+                    ],
+                    "description": "(@주소)"
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "담당 업무"
+                    ],
+                    "description": "3 업무의 내용 :"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "4 연봉:"
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "금 원"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금 지급 방법"
+                    ],
+                    "description": "5 임금 계약과 관련한 내용"
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금 지급 방법"
+                    ],
+                    "description": "5.1 월급여는 매월말일 에 \"을\"의 예금통장에 당월 해당분을 지급하며, 계약기간이 만료되기전 \"을\"이 퇴직하거나, 휴직하는 경우에는 월급여를 매월 1일부터 사유발생일까지 일할정산하여 지급합니다."
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금 지급 방법"
+                    ],
+                    "description": "5.2 상기급여는 소정근로일수 또는 소정근로시간을 개근한 자에 대하여 지급하는 금액으로 지각·조퇴·외출 등으로 인하여 근로하지 못한 일수 또는 시간을 공제한 후 지급할수 있습니다."
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "퇴직 절차",
+                        "퇴직금"
+                    ],
+                    "description": "6 퇴직과 관련된 사항"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "퇴직 절차"
+                    ],
+                    "description": "6.1 사직의사통보는 적어도 2주전에는알려주시는것을원칙으로합니다."
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "퇴직금"
+                    ],
+                    "description": "6.2 퇴직금은 근로자 퇴직급여보장법에서 정한 규정에 따라 퇴직 후 14일이내에 지급합니다."
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간"
+                    ],
+                    "description": "7 근로시간, 근태"
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간",
+                        "휴게 시간"
+                    ],
+                    "description": "7.1 근로시간은 1일 8시간, 매주 (@요일)을 원칙으로 합니다.\n* 시업시간 : (@시간) * 종업시간: (@시간) * 휴게시간 : (@시간)~(@시간)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간",
+                        "휴가"
+                    ],
+                    "description": "7.2 질병 및 기타 부득이한 사유로 결근할 때에는 결근일수 및 사유를 기재한 결근계(휴가계)를 제출하여 사전승인을 받아야합니다. 단, 예기치 않은 사유로 인하여 결근계를 제출하지 못한 때에는 결근사유서를 제출하여야 합니다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 환경 변경"
+                    ],
+                    "description": "7.3 상기 근로시간은 회사의 사정으로 변동될 수 있습니다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "휴일",
+                        "휴가"
+                    ],
+                    "description": "8 휴가 및 휴일"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "휴일"
+                    ],
+                    "description": "8.1 유급휴일은 주휴일 및 근로기준법에서 정하는 바에 따라 부여합니다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "휴가"
+                    ],
+                    "description": "8.2 연차유급휴가는 근로기준법에서 정하는 바에 따라 부여합니다."
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "휴일",
+                        "휴가"
+                    ],
+                    "description": "8.3 상기 휴가 및 휴일은 회사의 사정으로 변동될 수 있습니다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지 의무"
+                    ],
+                    "description": "9 비밀유지서약"
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지 의무"
+                    ],
+                    "description": "9.1 업무 중 알게 되는 모든 제품/운영/영업에 관한 사항은 기업비밀로 취급되며, NDA 작성합니다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지 의무"
+                    ],
+                    "description": "9.2 위 기업 비밀을 외부로 유출하거나, 유출을 시도할 시, 형법 356조 2항 및 부정경쟁방지법에 의거하여, 형사상 처벌을 받을 수 있습니다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "10 근로계약서는 2부를작성하여 \"갑\"과 \"을\"이 보관합니다."
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "년 일"
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "본인은 위의 내용을 확인한 바 이상없음을 확약합니다."
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "사용자의 인적사항",
+                        "사용자의 기명날인"
+                    ],
+                    "description": "[갑]\n사업자등록번호: (@고유번호)\n대표이사: (@성명) [인또는서명]"
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로자의 인적사항",
+                        "근로자의 기명날인"
+                    ],
+                    "description": "[을]\n주민등록번호:\n성명: [인또는서명]"
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기타",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "√ 추가사항 : 건강보험 피부양자 등재요청\n관계 이름 주민등록번호 비고"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,307 @@
+[
+  {
+    "text": "연소근로자(18세 미만인 자) 표준근로계약서",
+    "chunk_length": 24,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(이하 “사업주”라 함)과(와) (이하 “근로자”라 함)은 다음과 같이 근로계약을 체결한다.",
+    "chunk_length": 51,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "년 월 일",
+    "chunk_length": 5,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(사업주) 사업체명 : (전화 : )\n주 소 :\n대 표 자 : (서명)",
+    "chunk_length": 39,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(근로자) 주 소 :\n연 락 처 :\n성 명 : (서명)",
+    "chunk_length": 30,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 인적사항",
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. 근로개시일 : \n년 월 일부터 ※ 근로계약기간을 정하는 경우에는 “ 년 월 일부터 년 월 일까지” 등으로 기재\n년 월 일부터 ※ 근로계약기간을 정하는 경우에는 “ 년 월 일부터 년 월 일까지” 등으로 기재",
+    "article_number": 1,
+    "article_title": "1. 근로개시일 : ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 117,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. 근 무 장 소 :",
+    "article_number": 2,
+    "article_title": "2. 근 무 장 소 :",
+    "chunk_length": 12,
+    "type": "article",
+    "content_labels": [
+      "근무 장소"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "3. 업무의 내용 : ",
+    "article_number": 3,
+    "article_title": "3. 업무의 내용 : ",
+    "chunk_length": 12,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 소정근로시간 : \n시 분부터 시 분까지 (휴게시간 : 시 분~ 시 분)",
+    "article_number": 4,
+    "article_title": "4. 소정근로시간 : ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 42,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근로 시간"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "매주 일(또는 매일단위)근무, 주휴일 매주 요일 ",
+    "article_number": 5,
+    "article_title": "매주 일(또는 매일단위)근무, 주휴일 매주 요일 ",
+    "chunk_length": 27,
+    "type": "article",
+    "content_labels": [
+      "휴일",
+      "근로 시간"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "6. 임 금 \n- 월(일, 시간)급 : 원 \n- 상여금 : 있음 ( ) 원, 없음 ( ) \n- 기타급여(제수당 등) : 있음 ( ), 없음 ( ) \n· 원, 원 \n· 원, 원 \n- 임금지급일 : 매월(매주 또는 매일) 일(휴일의 경우는 전일 지급) \n- 지급방법 : 근로자에게 직접지급( ), 근로자 명의 예금통장에 입금( )",
+    "article_number": 6,
+    "article_title": "6. 임 금 ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 182,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "7. 연차유급휴가 \n- 연차유급휴가는 근로기준법에서 정하는 바에 따라 부여함 ",
+    "article_number": 7,
+    "article_title": "7. 연차유급휴가 ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 43,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "휴가"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "8. 가족관계증명서 및 동의서 \n- 가족관계기록사항에 관한 증명서 제출 여부: \n- 친권자 또는 후견인의 동의서 구비 여부 :",
+    "article_number": 8,
+    "article_title": "8. 가족관계증명서 및 동의서 ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 70,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "9. 사회보험 적용여부(해당란에 체크)\n□ 고용보험 □ 산재보험 □ 국민연금 □ 건강보험",
+    "article_number": 9,
+    "article_title": "9. 사회보험 적용여부(해당란에 체크)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 49,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "사회보험의 가입"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "10. 근로계약서 교부\n - 사업주는 근로계약을 체결함과 동시에 본 계약서를 사본하여 근로자의 교부요구와 관계없이 근로자에게 교부함(근로기준법 제17조, 제67조 이행)",
+    "article_number": 10,
+    "article_title": "10. 근로계약서 교부",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 94,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약서의 교부"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "11. 기타\n\n- 13세 이상 15세 미만인 자에 대해서는 고용노동부장관으로부터 취직인허증을 교부받아야 하며, 이 계약에 정함이 없는 사항은 근로기준법령에 의함",
+    "article_number": 11,
+    "article_title": "11. 기타\n",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 89,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0014",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-18",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 고용보험법, 산업재해보상보험법, 국민연금법, 국민건강보험법",
+    "document_purpose": "연소근로자(18세 미만)의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "청소년이 아르바이트나 단기 근로를 할 때, 특히 소매업, 음식점, 서비스업 등에서 청소년 근로자와의 계약을 체결할 때 활용. 청소년의 근로 조건을 명확히 하고 부모 또는 후견인의 동의를 받기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

@@ -1,0 +1,490 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "아르바이트계약서_0001",
+                "document_size": "77kb",
+                "document_page_count": "1",
+                "document_total_ids": "23",
+                "document_format": "pdf",
+                "document_creation_date": "2024-09-26",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "아르바이트계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법, 근로기준법 시행령",
+                    "document_purpose": "단시간 근로자와 사용자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "단시간 근로자가 주로 종사하는 음식점, 편의점, 소매업 등 다양한 산업 분야에서 아르바이트 근로자와의 계약을 체결할 때 활용. 특히 임금, 근로시간, 휴게시간 등의 조건을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "단시간 근로자 표준근로계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "OOO (이하 “갑”이라 함)과 OOO (이하 “을”이라 함)은 다음과 같이 근로계약을 체결한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 계약 기간"
+                    ],
+                    "description": "1. 근로계약기간 :"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 계약 기간"
+                    ],
+                    "description": "20OO년 OO월 OO일부터 20OO년 OO월 OO일까지"
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근무 장소"
+                    ],
+                    "description": "2. 근무 장소 :"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근무 장소"
+                    ],
+                    "description": "OOOO"
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "담당 업무"
+                    ],
+                    "description": "3. 업무의 내용(직종) :"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "담당 업무"
+                    ],
+                    "description": "OOOO"
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간"
+                    ],
+                    "description": "4. 근로시간 :"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로 시간"
+                    ],
+                    "description": "O시OO분부터 O시OO분까지 ( 휴게시간 :O시OO분∼O시OO분 )"
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "휴일"
+                    ],
+                    "description": "5. 근무일/휴일  :"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "휴일"
+                    ],
+                    "description": "매주 OO일(또는 매일단위)근무, 주휴일 매주 OO요일"
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "6. 임금"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "- 시간(일, 월)급 : OOO 원 (해당 사항에 O표)"
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타급여"
+                    ],
+                    "description": "- 기타급여(제수당등) :\n없음(  )\n있음 : OOO 원(내역별 기재)"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금액"
+                    ],
+                    "description": "- 가산임금률(연장, 야간, 휴일근로등) :  OO %(내역별 기재)"
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금 지급일"
+                    ],
+                    "description": "- 임금지급일 : 매월(매주) OO 일(공휴일의 경우는 전일)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "임금 지급 방법"
+                    ],
+                    "description": "- 지급방법 : 을에게 직접지급 또는 예금통장에 입금 등"
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "7. 기타"
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법"
+                    ],
+                    "description": "- 이 계약에 정함이 없는 사항은 근로기준법에 의함"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "20OO 년  OO 월  OO 일"
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "사용자의 인적사항",
+                        "사용자의 기명날인"
+                    ],
+                    "description": "(갑) 사업체명 : (주)OOOO 주소 : OO시 OO구 OO동 OO-OO\n 전화 : OOO-OOOO-OOOO\n 대 표 자 : O O O (서명)"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로자의 기명날인",
+                        "근로자의 인적사항"
+                    ],
+                    "description": "(을) 주 소 : OO시 OO구 OO동 OO-OO\n 주민등록번호 : OOOOOO-OOOOOOO 전화 : OOO-OOOO-OOOO\n 성 명 : O O O (서명) "
+                }
+            }
+        ]
+    }
+}

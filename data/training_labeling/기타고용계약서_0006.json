@@ -1,0 +1,691 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0006",
+                "document_size": "112kb",
+                "document_page_count": "3",
+                "document_total_ids": "33",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-23",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법",
+                    "document_purpose": "프리랜서와 고용주 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "외주 작업, 프리랜서 계약 체결 시 활용. 특히 IT, 디자인, 번역, 마케팅 등 다양한 산업 분야에서 외주 작업자의 계약 조건을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "외주 작업자 근로계약서\n"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "계약건명 : (@업무)"
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "계약기간 : 20 년 월 일 ~ 20 년 월 일"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "(재)(@회사명1) (이하 “갑”이라 한다)는 (@성명1)(이하 “을”이라 한다)에게 (@업무)를 의뢰하면서 다음과 같이 `프리랜서 근로계약`을 체결하고, 이를 이행할 것을 약정한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "제1조(계약의 목적)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "본 계약은 “갑”이 “을”에게 (@업무)를 의뢰함에 있어 필요한 제반 사항을 정함을 그 목적으로 한다."
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제2조(계약의 범위)"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "\"을\"은 \"갑\"이 의뢰한 다음 호의 작업내용을 수행하여야 한다."
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① (@업무)"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간",
+                        "계약금의 지급"
+                    ],
+                    "description": "제3조(계약기간 및 계약금액)"
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "① 본 계약의 계약기간은 20  년  월  일부터 20  년  월  일까지로 한다."
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "② 총 계약금액은 세금 차감 후 금액으로 산정하며, “갑”은 “을”에게 금 (@금액)원정; 세금 정산후(소득세: (@금액)원 + 주민세: (@금액)원) 실지급액 (@금액)원을 지급한다"
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "③ 대금지급은 작업 완료일을 시점으로 15일 안에 지급하는 것으로 하며, 총 번역비에서 계약금을 제한 금액을 “을”이 정한 (@회사명2) (계좌번호: (@계좌번호) 예금주: (@성명1))으로 입금한다."
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제4조(납품 및 양도)"
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① “을”은 작업 진행 중 중간 완료된 성과물을 20 년 월 일까지 “갑”에게 납품하기로 하며 최종 작업본은 검토 및 수정 후 계약 완료일인 20 년 월 일까지 완성품으로 납품키로 한다. 만약 완성품의 수정 및 보완이 필요한 경우에는 “을”과 일정을 협의하여 진행키로 한다."
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② “을”은 (@구체적 사실관계)를 ”갑”에게 양도한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "제5조(협조의무)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "“갑”은 “을”이 작업하는 데 필요한 자료 및 정보 등을 제공하여야 하며, 작업수행을 위한 “을”의 요청이 있는 경우 이에 적극적으로 협조하여야 한다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "제6조(비밀유지)"
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "“을”은 본 작업과 관련하여 지득한 일체의 정보를 외부에 누설하거나 유출해서는 안되며, 이로 인해 발생되는 손해에 대해 책임을 지기로 한다."
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "제7조(계약의 해지)"
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "① “갑”과 “을”은 불가피한 이유에 의하여 계약기간 중에 본 계약을 해지하고자 할 때는 계약만료 1개월 전에 서면으로서 상대방에게 통지하여야 한다."
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "② “갑”과 “을”은 상당한 계약위반이나 기타의 사정에 의하여 계약업무 이행에 중대한 지장이 생긴 경우에는 전항의 규정에도 불구하고 통지 후 즉시 계약을 해지할 수 있다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "③ ‘갑’과 ‘을’은 계약내용을 변경할 필요가 있을 때에는 상호협의를 통해 변경한 내용을 특약의 형식으로 정할 수 있다."
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "제8조(손해배상)"
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "‘을’은 본 계약과 관련하여 ‘을’의 귀책사유로 인해 ‘갑’에게 손해를 입힌 경우 손해액을 배상하여야 한다. 다만, 천재지변 등 불가항력적인 경우에는 그러하지 아니하다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제9조(해석)"
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "본 계약에 명기하지 아니한 사항 및 본 계약의 해석상의 이의가 있을 때에는 쌍방의 협의 하에 결정하기로 한다."
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "제10조(소송관할)"
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "본 계약으로 발생되는 분쟁은 지방법원을 관할법원으로 한다."
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "20 년 월 일"
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "「갑」 \n주 소 : (@주소1)\n회사명 : (@회사명1) 이사장 (@성명2) (@직업)\n대리인 : (@호사명) 사장 (@성명3) (@직업) (인)"
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항",
+                        "피고용인의 기명날인"
+                    ],
+                    "description": "「을」\n주민번호 : (@식별번호)\n연락처 : (@전화번호)\n주소 : (@주소2)\n성 명 : (@성명1) (인)"
+                }
+            }
+        ]
+    }
+}

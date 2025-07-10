@@ -1,0 +1,273 @@
+[
+  {
+    "text": "근로자고용계약서",
+    "chunk_length": 8,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "○○○○ 년  ○ 월  ○ 일",
+    "chunk_length": 16,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "사 용 자   상호: 상호 명을\n주소: 입력하세요.\n대표(이사): 입력하세요. (인)",
+    "chunk_length": 47,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "근로자 주민번호: 입력하세요.\n주소: 입력하세요.\n성명: 입력하세요. (인)",
+    "chunk_length": 42,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 인적사항",
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "보증인 주민번호: 입력하세요.\n주소: 입력하세요.\n성명: 입력하세요. (인)",
+    "chunk_length": 42,
+    "type": "기명날인",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 1 조  \n근로자 ○○○는 ○○○○ 년  ○ 월  ○ 일 사용자 ○○○가 경영하는 상업에 관하여 근무를 제공할 것을 약속하며 사용자는 이에 대하여 보수를 지급할 것을 약속한다.",
+    "article_number": 1,
+    "article_title": "제 1 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 100,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 2 조  \n본 건의 고용기간은 ○○○○ 년  ○ 월  ○ 일부터 (○○)연간으로 한다. 다만, 기간 만료로 인하여 특별한 해고사항이 없는 한 기간의 만료로 동일 기간으로 재고용된다.",
+    "article_number": 2,
+    "article_title": "제 2 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 103,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 3 조  \n근로자는 사용자가 규정한 취업규칙 및 당사자 사이에 정한 고용조건을 반드시 준수하여 성실히 근무하여야 한다.",
+    "article_number": 3,
+    "article_title": "제 3 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 68,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 4 조  \n보수는 월 금 입력하세요. 원으로 정하여 매월 말일까지 사용자가 근로자에게 지급한다. 인 단, 업무성적의 진도, 근로자의 근무상태에 따라 법령의 범위 내에서 급료의 증감을 할 수 있다.",
+    "article_number": 4,
+    "article_title": "제 4 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 111,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 5 조  \n근로자의 근로 중 불미스러운 행동이 있을 경우 사용자는 법령의 규정에 따라 언제든지 해고할 수 있다.",
+    "article_number": 5,
+    "article_title": "제 5 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 64,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 6 조 \n 근로자는 성심껏 사용자의 영업에 종사하며 사용자의 명예 이해에 관한 중요한 사항 및 영업상 비밀에 속하는 사항을 타에 누설하지 못한다.",
+    "article_number": 6,
+    "article_title": "제 6 조 ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 83,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 7 조  \n근로자가 그 의무의 위반 또는 태만 기타 불미스러운 행위로 인하여 사용자에게 손해를 입힌 때 근로자는 즉시 그 손해를 배상하여야 한다.",
+    "article_number": 7,
+    "article_title": "제 7 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 83,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 8 조  \n보증인 ○○○는 근로자가 전조에 따라 사용자에게 손해를 입힌 때 근로자와 연대하여 그 손해를 배상할 보증 채무를 부담하며 또한 보증인은 상호 연대하여 근로자의 신원을 인수하고 사용자에 대하여 손해가 없을 것을 약속하며 사용자는 이것을 승낙한다.",
+    "article_number": 8,
+    "article_title": "제 8 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 144,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 9 조  \n사용자는 급료지급채무를 이행하지 못할 때 즉시 강제집행을 받아도 이의가 없음을 수락한다.",
+    "article_number": 9,
+    "article_title": "제 9 조  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 57,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0030",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-11-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 상업 분야에서 사용자와 근로자 간의 근로계약을 체결할 때 활용. 근로자의 고용기간, 보수, 취업규칙 준수, 해고 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "text": "시 용 (試 用) 근 로 계 약 서",
+    "chunk_length": 19,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(@회사명)(이하 “회사”라 함)과 000(이하 “근로자”라 함)는 근로기준법 및 취업규칙을 준수할 것을 약정하고 다음과 같이 시용근로계약을 체결한다.",
+    "chunk_length": 84,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2019년    월 일",
+    "chunk_length": 12,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“회사” (@회사명) 대표이사 : (@성명)   (인)",
+    "chunk_length": 30,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 기명날인",
+      "사용자의 인적사항"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“근로자” \n성 명 :  (인)\n주 소:\n연락처:",
+    "chunk_length": 27,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 기명날인",
+      "근로자의 인적사항"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. 시용기간:  \n 2019년 00월 00일 - 2019년 12월 31일 (3개월)",
+    "article_number": 1,
+    "article_title": "1. 시용기간:  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 47,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "수습 기간"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. 본계약 체결 조건: \n상기 시용기간 만료일 전 근무능력, 근무태도, 제규정 준수 여부를 평가한 후 정규근로 계약체결여부를 결정한다. 정규 근로계약이 체결되지 아니하는 경우 제1항 계약기간 만료로 해지된 것으로 본다.",
+    "article_number": 2,
+    "article_title": "2. 본계약 체결 조건: ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 123,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "3. 근무장소 및 담당업무(직책): \n서울 본사, 0000 업무",
+    "article_number": 3,
+    "article_title": "3. 근무장소 및 담당업무(직책): ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 35,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근무 장소",
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 근무일 및 소정근로시간:  \n월요일-금요일 (1주 5일), 09:30 – 18:30 (월소정근로 209시간)",
+    "article_number": 4,
+    "article_title": "4. 근무일 및 소정근로시간:  ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 63,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근로 시간"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "5. 휴게시간: \n12:00 – 13:00",
+    "article_number": 5,
+    "article_title": "5. 휴게시간: ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 23,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "휴게 시간"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "6. 유급휴일: \n주휴일(매주 일요일) 및 근로자의 날(5월 1일)과 취업규칙에 정한 휴일로 한다.",
+    "article_number": 6,
+    "article_title": "6. 유급휴일: ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 55,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "휴일"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "7. 임  금:\nA. 임금은 포괄임금제로 각종 비과세 수당 및 법정수당(연장수당)를 포함한다.\nB. 연봉 총액은 (@금액)원으로 하며, 구체적인 임금항목별 금액 및 계산방법은 아래 표에 의한다.\nC. 상기 월임금을 매월 초일부터 말일까지 산정하여 당월 25일(휴일인 경우 전일)에 근로자가 지정한 근로자 명의계좌로 입금한다.\nD. 회사와 근로자가 새로운 연봉계약이 체결되기 전까지는 상기 연봉을 적용한다.",
+    "article_number": 7,
+    "article_title": "7. 임  금:",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 226,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "8. 연차유급휴가: \n연차유급휴가는 「근로기준법」에서 정하는 바에 따라 부여한다. 단, 취업규칙에 별도로 정한 사항이있으면 이에 따른다.",
+    "article_number": 8,
+    "article_title": "8. 연차유급휴가: ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 76,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "휴가"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "9. 퇴직금: \n퇴직금은 「근로자퇴직급여 보장법」에 따라 별도 지급되지 아니한다. 단, 근로자가 정규근로 계약을 체결하는경우 상기 시용기간은 퇴직금 산정시 계속근로기간에 포함된다.",
+    "article_number": 9,
+    "article_title": "9. 퇴직금: ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 100,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "퇴직금"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "10. 근로계약서 교부: \n사업주는 근로계약을 체결함과 동시에 본 계약서를 하여 근로자의 교부요구와 관계없이근로자에게 교부한다.",
+    "article_number": 10,
+    "article_title": "10. 근로계약서 교부: ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 71,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약서의 교부"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "11. 기  타\nA. 이 계약에 정하지 아니한 사항은 회사의 취업규칙 및 별도 사규에 따른다.\nB. 회사는 본 시용기간 중이라도 현저하게 근무태도가 불량하거나 취업규칙 등에 정한 복무의무 사항을 위반한 경우 근로기준법 및 취업규칙에 따른 본 계약을 중도에 해지할 수 있다.",
+    "article_number": 11,
+    "article_title": "11. 기  타",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 152,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0035",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "회사와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 시용근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업에서 신규 채용된 근로자의 시용 기간 동안의 근로 조건을 명확히 하기 위해 사용됨. 특히 시용 기간 동안 근무능력과 태도를 평가하여 정규 근로계약 체결 여부를 결정할 때 활용됨.",
+    "public_domain_sources": null
+  }
+]

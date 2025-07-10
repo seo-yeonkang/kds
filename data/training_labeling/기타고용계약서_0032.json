@@ -1,0 +1,1539 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0032",
+                "document_size": "53kb",
+                "document_page_count": "7",
+                "document_total_ids": "75",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-23",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "국민체육진흥법, 근로기준법 ",
+                    "document_purpose": "스포츠단과 선수 간의 관계를 명확히 규정하고, 각자의 의무를 성실히 이행함으로써 계약의 목적을 달성하기 위함",
+                    "document_use_case": "프로 스포츠단에서 선수와의 계약을 체결할 때 활용. 특히 선수의 보수, 의무, 권리 등을 명확히 규정하여 계약 이행을 보장하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "선수계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "[ 스포츠단](이하 “스포츠단”이라 한다)과[ 종목 선수](이하 “선수”라 한다)는 다음과 같이 선수계약을 체결하고 이를 성실히 이행하기로 한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "제1조(계약의 목적)"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적",
+                        "신의성실"
+                    ],
+                    "description": "이 계약은 스포츠단의 제 규정에 따라 스포츠단과 선수간의 관계를 명확하게 정하고, 스포츠단과 선수는 스포츠단과 선수로서의 의무를 성실히 이행하는 것을 목적으로 한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제2조(직종 및 직위)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "선수의 직종은 으로 하고, 직위는 선수로 한다."
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "제3조(계약기간)"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "계약기간은 년 월 일부터 년 월 일까지로 한다."
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제4조(보수 등)"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "① 선수의 보수는 다음과 같이 지급한다."
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "1. 계약금 : 원(계약체결시 지급)"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "2. 기본연봉 : 원(매월 보수지급일에 균등·분할 지급)"
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "3. 훈련수당 : 월 원(매월 보수지급일에 지급)"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": 4
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "4. 기타 제수당, 인센티브, 포상금 등은 스포츠단 내규에 의하여 별도 지급"
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "② 선수의 보수는 매월 일에 지급하되, 지급일이 휴일인 경우 그 전일에 지급한다."
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "③ 법정수당(국민연금, 의료보험, 고용보험, 산재보험)은 스포츠단의 내규 등 관련규정에 따라 별도 지급한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제5조(스포츠단의 의무)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "스포츠단은 다음 각 호의 의무를 성실히 이행하여야 한다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "1. 스포츠단은 팀 종목을 관할하는 경기연맹의 정관, 규정 등 제반규정을 준수한다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "2. 스포츠단은 이 계약의 이행으로 인해 발생하는 선수의 질병, 부상에 대하여 적절한 의료검사와 치료를 제공하고, 그로 인해 발생하는 비용을 부담한다. 다만, 선수의 고의 또는 중과실에 의하여 발생한 질병과 부상에 대해서는 선수가 그 책임과 비용을 부담한다."
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "3. 스포츠단은 선수가 이 계약의 이행과 관련하여 상해를 입거나 사망하는 경우를 대비하여 보험에 가입한다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "4. 선수가 이 계약의 이행을 위해 소요되는 제반 비용(체재비, 교통비)은 스포츠단이 부담한다."
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "5. 스포츠단은 선수가 학업의 지속을 원할 경우 선수활동에 지장을 주지 않는 한도 내에서 승낙한다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "6. 스포츠단은 선수활동에 필요한 장비를 선수에게 제공한다."
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 7,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "7. 스포츠단은 선수의 인권을 존중하고, 차별하지 않는다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 8,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "8. 스포츠단은 스포츠단이 주최하는 사회공헌 및 행사의 일정을 선수에게 사전 공지한다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제6조(선수의 의무)"
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "선수는 다음 각 호의 의무를 성실히 이행하여야 한다."
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "1. 선수는 스포츠단의 선수단운영규정 등 내규, 스포츠단의 정당한 지시사항, 팀 종목을 관할하는 경기연맹의 정관, 규정 등 제반규정을 준수한다."
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "2. 선수는 스포츠단이 지정하는 모든 경기에 출전하며, 경기출전시 자신의 능력을 충분히 발휘하여야 한다."
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "3. 선수는 스포츠단이 지정하는 훈련, 합숙, 회의, 교육, 경기준비 등에 참가한다."
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "4. 선수는 스포츠단이 지급하거나 지시하는 유니폼 및 운동복 등 선수활동 등을 위한 복장을 착용(사용)한다."
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "5. 선수는 스포츠단이 지정하는 건강검진, 예방 및 치료에 참가하고, 스포츠단이 요청할 경우 건강진단을 받고 그 결과를 제출한다."
+                }
+            },
+            {
+                "id": "34",
+                "format": {
+                    "position": {
+                        "line": "34"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "6. 선수는 스포츠단, 한국도핑방지위원회(KADA) 등이 실시하는 도핑테스트에 참가한다."
+                }
+            },
+            {
+                "id": "35",
+                "format": {
+                    "position": {
+                        "line": "35"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 7,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "7. 선수는 이 계약에 의해 제공되거나 이용하는 스포츠단의 자산을 이 계약 종료시 반환한다."
+                }
+            },
+            {
+                "id": "36",
+                "format": {
+                    "position": {
+                        "line": "36"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 8,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "8. 선수는 종목 선수로서 자신의 모든 재능을 최대한 스포츠단에 제공하기 위하여 항상 최선의 건강상태를 보유, 운동능력의 유지, 발전을 위해 노력한다."
+                }
+            },
+            {
+                "id": "37",
+                "format": {
+                    "position": {
+                        "line": "37"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 9,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "9. 선수는 스포츠단이 주최, 참가하는 사회공헌 및 행사에 참가해야 하며, 참가가 부득이하게 어려운 경우 사유서를 스포츠단에 제출한다."
+                }
+            },
+            {
+                "id": "38",
+                "format": {
+                    "position": {
+                        "line": "38"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 10,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "신의성실",
+                        "계약의 내용"
+                    ],
+                    "description": "10. 선수는 경기장 내외에서 스포츠단의 명예를 실추시키는 행동을 하여서는 안된다."
+                }
+            },
+            {
+                "id": "39",
+                "format": {
+                    "position": {
+                        "line": "39"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제7조(복무, 휴일, 휴가 등)"
+                }
+            },
+            {
+                "id": "40",
+                "format": {
+                    "position": {
+                        "line": "40"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 선수는 이 계약에 따른 업무수행을 위하여 스포츠단의 기관(또는 스포츠단이 지정하는 장소)에 근무한다."
+                }
+            },
+            {
+                "id": "41",
+                "format": {
+                    "position": {
+                        "line": "41"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 근무시간, 휴일, 휴가 등 관련사항은 근로기준법 및 스포츠단의 인사규정, 복무규정 등 내규에 따른다."
+                }
+            },
+            {
+                "id": "42",
+                "format": {
+                    "position": {
+                        "line": "42"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "제8조(초상권 등)"
+                }
+            },
+            {
+                "id": "43",
+                "format": {
+                    "position": {
+                        "line": "43"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "① 스포츠단은 선수활동과 관련한 선수의 사진, 초상, 영상, 성명, 캐릭터 등(이하 “초상 등”이라 한다)을 방송, 보도, 광고에 사용하거나 선수의 초상 등을 이용한 상품의 제작 및 판매를 할 수 있고, 선수는 이에 동의한다."
+                }
+            },
+            {
+                "id": "44",
+                "format": {
+                    "position": {
+                        "line": "44"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "② 제1항의 상품 제작 및 판매에 사용되는 선수의 초상 등의 소유권은 스포츠단에 귀속되고, 선수는 이를 스포츠단의 상품 사업과 경쟁 관계에 있는 업체의 상품이나 서비스에 사용할 수 없다."
+                }
+            },
+            {
+                "id": "45",
+                "format": {
+                    "position": {
+                        "line": "45"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "③ 제1항의 상품 제작 및 판매로 얻는 이익은 선수와 구단이 50 대 50의 비율로 배분한다."
+                }
+            },
+            {
+                "id": "46",
+                "format": {
+                    "position": {
+                        "line": "46"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "④ 선수는 스포츠단의 광고, 홍보, 프로모션 활동 및 소재제작(사진촬영, 비디오촬영, 인터뷰 녹음 등)에 무상으로 참여해야 한다."
+                }
+            },
+            {
+                "id": "47",
+                "format": {
+                    "position": {
+                        "line": "47"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "⑤ 선수는 리그 기간 또는 대회 기간 중 스포츠단의 사전 동의 없이 라디오,TV 등 대중매체의 출연, 상품광고에 참여할 수 없다. 리그 기간 또는 대회 기간 이외라도 위와 같은 행위를 하고자 하는 경우 사전에 스포츠단과 협의하여야 한다."
+                }
+            },
+            {
+                "id": "48",
+                "format": {
+                    "position": {
+                        "line": "48"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제9조(퇴직금)"
+                }
+            },
+            {
+                "id": "49",
+                "format": {
+                    "position": {
+                        "line": "49"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "퇴직금은 근속연수 1년에 대하여 총보수(기본연봉, 훈련수당, 제수당, 인센티브 포함)의 12분의 1을 매년 정산하여 계약 종료일로부터 14일 이내에 지급한다."
+                }
+            },
+            {
+                "id": "50",
+                "format": {
+                    "position": {
+                        "line": "50"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "제10조(계약의 해제, 해지 등)"
+                }
+            },
+            {
+                "id": "51",
+                "format": {
+                    "position": {
+                        "line": "51"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "① 스포츠단과 선수는 상대방이 이 계약에 정한 의무를 이행하지 않을 경우 서면에 의한 통지로 이 계약을 해제 또는 해지할 수 있다."
+                }
+            },
+            {
+                "id": "52",
+                "format": {
+                    "position": {
+                        "line": "52"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "② 스포츠단은 선수에게 다음 각 호의 사유가 발생한 경우 서면에 의한 통지로 이 계약을 해제 또는 해지할 수 있다."
+                }
+            },
+            {
+                "id": "53",
+                "format": {
+                    "position": {
+                        "line": "53"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "1. 질병 또는 부상으로 인하여 훈련 및 경기에 출전할 수 없는 등 선수활동이 불가능한 경우"
+                }
+            },
+            {
+                "id": "54",
+                "format": {
+                    "position": {
+                        "line": "54"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "2. 경기 성적이 극히 저조하고 그 향상 가능성이 희박하다고 인정될 경우"
+                }
+            },
+            {
+                "id": "55",
+                "format": {
+                    "position": {
+                        "line": "55"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "3. 선수로서 품위를 손상하는 행위를 한 경우"
+                }
+            },
+            {
+                "id": "56",
+                "format": {
+                    "position": {
+                        "line": "56"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": 4
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "4. 경기 또는 훈련에 태만하거나 고의로 기피한 경우"
+                }
+            },
+            {
+                "id": "57",
+                "format": {
+                    "position": {
+                        "line": "57"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": 5
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "5. 지정된 장소에서 무단이탈한 경우"
+                }
+            },
+            {
+                "id": "58",
+                "format": {
+                    "position": {
+                        "line": "58"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": 6
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "6. 선수단운영규정 등 내규를 중대하게 위반한 경우"
+                }
+            },
+            {
+                "id": "59",
+                "format": {
+                    "position": {
+                        "line": "59"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "③ 스포츠단은 선수가 제2항의 사유에 해당되거나 스포츠단의 선수단운영규정 등 내규를 위반한 경우 선수에게 징계처분할 수 있다. 징계절차, 징계효력 등 징계에 관한 사항은 선수단운영규정에서 별도로 정한다."
+                }
+            },
+            {
+                "id": "60",
+                "format": {
+                    "position": {
+                        "line": "60"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "계약금의 지급"
+                    ],
+                    "description": "④ 선수가 이 계약상의 의무 이행 중 고의 또는 중대한 과실 없이 질병, 부상을 당하여 선수활동이 불가능하게 되고 그로 인해 이 계약이 해제 또는 해지되는 경우 스포츠단은 제4조에서 정한 기본연봉액의 범위 내에서 선수의 치료에 소요되는 비용을 부담한다."
+                }
+            },
+            {
+                "id": "61",
+                "format": {
+                    "position": {
+                        "line": "61"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정",
+                        "위약벌"
+                    ],
+                    "description": "제11조(손해배상, 위약벌 등)"
+                }
+            },
+            {
+                "id": "62",
+                "format": {
+                    "position": {
+                        "line": "62"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "손해배상의 예정"
+                    ],
+                    "description": "① 스포츠단 또는 선수 어느 일방의 귀책사유로 이 계약이 해제 또는 해지 되는 경우, 귀책 당사자는 상대방에게 발생한 손해를 배상하여야 한다."
+                }
+            },
+            {
+                "id": "63",
+                "format": {
+                    "position": {
+                        "line": "63"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "위약벌"
+                    ],
+                    "description": "② 스포츠단이 이 계약에 따른 의무를 충실히 이행하고 있음에도 불구하고 선수가 계약기간 도중에 일방적으로 계약을 해지하거나 계약 파기를 목적으로 계약상의 내용을 위반하는 경우에는 제1항의 손해배상과 별도로 위약벌로 을 스포츠단에게 지급하여야 한다."
+                }
+            },
+            {
+                "id": "64",
+                "format": {
+                    "position": {
+                        "line": "64"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "위약벌"
+                    ],
+                    "description": "③ 스포츠단의 귀책사유로 이 계약이 해제 또는 해지되는 경우에는 스포츠단은 제1항의 손해배상과 별도로 위약벌로 을 선수에게 지급하여야 한다."
+                }
+            },
+            {
+                "id": "65",
+                "format": {
+                    "position": {
+                        "line": "65"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "④ 선수가 선수의 귀책사유로 제3자에게 손해를 가하여 스포츠단이 이를 배상하여 준 경우 스포츠단은 선수에게 그 손해액을 청구할 권리를 가진다."
+                }
+            },
+            {
+                "id": "66",
+                "format": {
+                    "position": {
+                        "line": "66"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 변경에 대한 합의"
+                    ],
+                    "description": "제12조(계약의 변경)"
+                }
+            },
+            {
+                "id": "67",
+                "format": {
+                    "position": {
+                        "line": "67"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 변경에 대한 합의",
+                        "계약의 효력"
+                    ],
+                    "description": "스포츠단과 선수는 상호 서면합의에 의하여 이 계약을 변경할 수 있고, 그 서면합의에서 달리 정함이 없는 한 변경된 사항은 그 다음 날부터 효력이 발생한다."
+                }
+            },
+            {
+                "id": "68",
+                "format": {
+                    "position": {
+                        "line": "68"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제13조(계약의 해석)"
+                }
+            },
+            {
+                "id": "69",
+                "format": {
+                    "position": {
+                        "line": "69"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법",
+                        "관할법원"
+                    ],
+                    "description": "이 계약에 명시되지 아니하거나 해석상 이견이 있는 사항은 신의성실의 원칙에 의해 상호 합의에 의하여 원만하게 해결하되, 합의가 성립되지 않을 경우에는 관계법령 및 관례에 따른다."
+                }
+            },
+            {
+                "id": "70",
+                "format": {
+                    "position": {
+                        "line": "70"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "제14조(분쟁해결)"
+                }
+            },
+            {
+                "id": "71",
+                "format": {
+                    "position": {
+                        "line": "71"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "이 계약과 관련하여 법적 분쟁이 발생한 때에는 대한민국 법률과 대한상사중재원의 중재규칙에 따라 대한상사중재원의 중재에 의하여 해결하기로 하며, 위 분쟁에 대하여 내려지는 중재판정은 최종적인 것으로 모든 당사자에 대하여 구속력을 가지는 것에 합의한다."
+                }
+            },
+            {
+                "id": "72",
+                "format": {
+                    "position": {
+                        "line": "72"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "이 계약의 내용을 증명하기 위하여 계약서 2부를 작성, 서명 날인 후 스포츠단과 선수 각각 1부씩 보관한다."
+                }
+            },
+            {
+                "id": "73",
+                "format": {
+                    "position": {
+                        "line": "73"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "년 월 일"
+                }
+            },
+            {
+                "id": "74",
+                "format": {
+                    "position": {
+                        "line": "74"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "(스포츠단)\n상 호 :\n주 소 :\n대표자 : (인)"
+                }
+            },
+            {
+                "id": "75",
+                "format": {
+                    "position": {
+                        "line": "75"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항",
+                        "피고용인의 기명날인"
+                    ],
+                    "description": "(선수)\n이 름 : (인)\n주 소 :"
+                }
+            }
+        ]
+    }
+}
