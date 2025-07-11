@@ -1,0 +1,206 @@
+[
+  {
+    "text": "근로계약서",
+    "chunk_length": 5,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(@회사명)과 (@성명1)은 다음과 같이 근로계약을 체결하고 성실하게 계약사항을 준수한다.",
+    "chunk_length": 50,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "㈜(@회사명) 사업자번호 (@고유번호)\n주소: (@주소2)\n연락처: (@전화번호)",
+    "chunk_length": 45,
+    "type": "서문",
+    "content_labels": [
+      "사용자의 인적사항"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "본 계약에 정함이 없는 사항은 상호신뢰를 바탕으로 ㈜(@회사명) 관련 법규 및 사회적 통념에 따름",
+    "chunk_length": 54,
+    "type": "후문",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(갑) (@회사명),\n대표자: (@성명2) (서명)\n주소: (@주소2)",
+    "chunk_length": 39,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(을) (@성명1) (서명)\n주민번호: (@고유번호)\n주소: (@주소3)",
+    "chunk_length": 40,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 인적사항",
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. 근로조건\n근로장소: (@주소1)\n근로시간: 주 40시간\n고용형태: 정규직((@숫자)개월 수습기간)",
+    "article_number": 1,
+    "article_title": "1. 근로조건",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 57,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "근무 장소",
+      "근로 시간"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. 임금체계\n연봉: 금 (@금액)\n*수습기간 급여 동일",
+    "article_number": 2,
+    "article_title": "2. 임금체계",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 31,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "3. 업무범위\n1) 직위: (@직위)\n2) 업무: (@업무)",
+    "article_number": 3,
+    "article_title": "3. 업무범위",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 33,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 근로조건\n기간: (@날짜)\n계약기간 근로 계약기간을 정하지 않는 경우에는 “근로개시일”만 기재",
+    "article_number": 4,
+    "article_title": "4. 근로조건",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 55,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "5. 기타\n“갑”은 근로계약을 체결함과 동시에 본 계약서를 교부함(근로기준법 제17조 이행)",
+    "article_number": 5,
+    "article_title": "5. 기타",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 51,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0071",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반 기업에서 정규직 근로자와의 계약을 체결할 때 활용. 특히 근로자의 근로 조건, 임금, 업무 범위 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

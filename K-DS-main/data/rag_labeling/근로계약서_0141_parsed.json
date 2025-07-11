@@ -1,0 +1,250 @@
+[
+  {
+    "text": "연봉제 근로계약서",
+    "chunk_length": 9,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "ㅇㅇㅇㅇ 대표이사 (이하 “갑”이라 함)와 근로자(이하 “을”이라 함)은 근로계약을 성실히 준수할 것을 서약하고 다음과 같이 근로계약을 체결한다.",
+    "chunk_length": 81,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(@날짜)",
+    "chunk_length": 5,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“갑” (사용자) ㅇㅇㅇㅇ 대표이사 ㅇㅇㅇ (인)",
+    "chunk_length": 27,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“을” (근로자) 성명 : ㅇㅇㅇ (인)",
+    "chunk_length": 22,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 (계약기간): \n(@날짜) ~ (@날짜)",
+    "article_number": 1,
+    "article_title": "제1조 (계약기간): ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 26,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 (시간외 및 특별근무에 관한 상여금)\n“갑”이 규정한 근로시간을 초과하여 근무하거나, 특별히 위험한 노선에 차량을 운전하는 경우 “을”은 이에 상당한 수당 및 기타 상여금을 지급하여야 한다.",
+    "article_number": 2,
+    "article_title": "제2조 (시간외 및 특별근무에 관한 상여금)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 110,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "상여금"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제3조 (취업직종)\n(1) 직종:\n(2) 근무지: (@주소)\n(3) 단, 회사 업무 형편상 부득이한 경우 위 근무지를 변경 할 수 있으며, “을”은 이에 따라야 한다.",
+    "article_number": 3,
+    "article_title": "제3조 (취업직종)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 93,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제4조 (근로조건)\n(1) 근로시간 :\n① 평일 :09:00 ~ 18:00\n② 토요일 :09:00 ~ 12:00\n(출퇴근 시간은 사업 및 사업장 사정에 따라 탄력적으로 조정할 수 있음)\n(2) 휴게시간 : 식사시간을 포함하여 근무여건에 따라 1시간 이상을 탄력적으로 부여한다.\n(3) 휴일 : 업무의 형태에 따라 1주에 1일은 휴일로 한다.",
+    "article_number": 4,
+    "article_title": "제4조 (근로조건)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 190,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제5조 (임 금)\n(1) “을”의 임금 형태는 연봉제로 한다.\n(2) 지급총액 :원정 (\\ 원)\n가. 연봉 구성 및 금액\n금액 연봉 원 (월 원)법정 제수당 포함\n퇴 직 금 원\n지급총액 원\n※ 月 급여액에는 기본급과 연장, 야간, 휴일근로수당 및 연, 월차수당 등이 포괄적으로 합산되어 있음\n나. 연봉 지급 방법\n① 월 급여 : 12로 나누어 매월 25일 지급\n② 연봉 지급대상 기간 중 조퇴, 결근, 휴직, 정직 등 “을”의 귀책사유로 근로를 제공하지 못할 경우 그 기간만큼 임금 또는 연봉을 지급하지 아니하며, “을”이 퇴직할 경우에는 근무일수에 따라 일할 계산하여 급여를 지급한다.\n③ 퇴직금: 지급사유가 발생한 경우 “을”의 요청에 따라 1년간 중간 정산하여 지급할 수 있다.",
+    "article_number": 5,
+    "article_title": "제5조 (임 금)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 382,
+    "items_count": 8,
+    "type": "article",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제6조 (수습기간)\n수습기간은 3개월로 하며 근무태도, 능력, 자질, 성실성, 건강상태를 종합적으로 평가하여 근로자로서 계속 근무가 부적격한 경우 본 채용을 거절하고 즉시 해고할 수 있다.",
+    "article_number": 6,
+    "article_title": "제6조 (수습기간)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 105,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "수습 기간"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제7조 (근로계약의 해지)\n(1) 근로계약 기간이 만료되면 근로계약은 종료된다.\n(2) “갑”은 “을”이 다음 각 항을 위반할 경우 근로계약 기간 중이라도 근로계약을 해지하거나 해고 할 수 있다.\n① 고의로 업무능률을 저해하거나 업무수행을 방해한 경우\n② 출근 성적이 불량하거나 근무성적 또는 근무태도가 불성실한 경우",
+    "article_number": 7,
+    "article_title": "제7조 (근로계약의 해지)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 177,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "근로계약의 종료"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제8조 (기 타)\n(1) “갑”과 “을”은 연봉근로계약에 동의하며 연봉 금액에 관한 비밀을 누설하지 않는다.\n(2) “을”이 퇴직하고자 하는 경우 30일 전에 “갑”에게 통보하고 업무 인수인계를 위하여 협력해야 한다.\n(3) 상기에서 정하지 아니한 사항은 관계법령에 따른다.",
+    "article_number": 8,
+    "article_title": "제8조 (기 타)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 153,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0141",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-29",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 근로기준법 시행령, 임금채권보장법",
+    "document_purpose": "사용자와 근로자 간의 연봉제 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "기업 및 단체에서 연봉제를 적용하는 근로자와의 계약을 체결할 때 활용. 특히 근로시간, 임금, 휴가, 해고 조건 등을 명확히 규정하여 분쟁을 예방하고 원활한 업무 수행을 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

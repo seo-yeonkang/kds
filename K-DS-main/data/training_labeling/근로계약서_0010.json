@@ -1,0 +1,394 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "근로계약서_0010",
+                "document_size": "66kb",
+                "document_page_count": "1",
+                "document_total_ids": "18",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-15",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "근로(고용)계약서"
+                },
+                "additional_info": {
+                    "related_law": "공인중개사법",
+                    "document_purpose": "부동산 중개업에서 사용자와 피고용인 간의 고용조건, 권리, 의무를 명확히 규정하고 고용계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "부동산 중개업소에서 중개보조원이나 사무직 직원 등과의 고용 계약을 체결할 때 활용. 특히 중개업무의 정확한 수행과 법적 의무 준수를 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "고 용 계 약 서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로자의 인적사항"
+                    ],
+                    "description": "1. 피고용인 인적사항"
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TABLE",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로자의 인적사항"
+                    ],
+                    "description": "<table><br><tr><td>성 명</td><td>O O O</td><td>주민등록번호</td><td>-</td></tr><tr><td>주 소</td><td  colspan=\"3\">OO시 OO구 OO동 OO번지</td></tr><tr><td>자격증</td><td></td><td>전화번호</td><td>OOO-OOO-OOOO</td></tr></table>"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "2. 고용조건"
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TABLE",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "담당 업무",
+                        "근로 계약 기간",
+                        "근로 시간",
+                        "임금액",
+                        "임금 지급일"
+                    ],
+                    "description": "<table><tr><td>업무내용</td><td  colspan=\"4\"></td></tr><tr><td>고용기간</td><td  colspan=\"4\">20OO년 O월 O일부터 20OO년 O월 O일까지</td></tr><tr><td>근무시간</td><td colspan=\"2\">오전 O시부터 오후 O시까지</td><td>휴 일</td><td></td></tr><tr><td>임 금</td><td>기본급</td><td>만원</td><td>실적급</td><td></td></tr><tr><td>임금지급일</td><td  colspan=\"4\"></td></tr></table>"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "3. 기타 고용조건"
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로계약의 종료"
+                    ],
+                    "description": "1) 피고용인이 부동산중개업법 제7조에 결격사유에 해당할 경우 본 고용계약은 당연히 해지된다."
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "2) 피고용인은 부동산중개업법령 및 관계 법령에서 정한 각종 의무규정을 성실히 준수한다."
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "담당 업무"
+                    ],
+                    "description": "3) 피고용인은 거래계약서 작성 및 중개대상물 확인·설명서 작성 등 중요 중개 업무를 수행하지 않는다."
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "4) 피고용인은 중개업자의 사용인으로서 품위를 유지하며 신뢰성 제고에 적극 노력한다."
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지 의무",
+                        "손해배상의 예정"
+                    ],
+                    "description": "5) 피고용인은 업무상 알게 된 비밀을 누설하지 아니하고, 자신의 이익을 위해서 사용하지 않음은 물론 이를 위반함으로 인해 고용인에게 발생한 피해액 전액을 배상한다."
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "6) 피고용인의 행위로 인하여 중개의뢰인 또는 고용인에게 발생한 손해는 전액 피고용인이 보상하여야 한다."
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 7,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "손해배상의 예정"
+                    ],
+                    "description": "7) 고용인은 상기 배상책임을 보장받기 위하여 피고용인에게 신용보증보험증서 또는 연대보증인(재산세 2만원 이상 납부자)의 재정보증서를 요구할 수 있으며, 이 경우 피고용인은 성실히 이에 응해야 한다."
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "고용인과 피고용인은 본 고용계약 조건의 성실한 이행을 증명하기 위하여 아래와 같이 서명·날인한 후 각자가 1부씩 보관한다."
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "20OO년  O월 O일"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "사용자의 인적사항",
+                        "사용자의 기명날인"
+                    ],
+                    "description": "고용인 - 사무소명 : OOOO 등록번호 :\n주소 : OO시 OO구 OO동 OO번지\n대표자명 : O  O  O (서명 또는 날인)"
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "근로자의 기명날인"
+                    ],
+                    "description": "피고용인 - 성 명 : O O O (서명 또는 날인)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기타",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "※ 첨부서면 : 주민등록등본 1부"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "text": "약사고용계약서",
+    "chunk_length": 7,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "의약품판매업자       (이하 갑이라 한다)가 약사 이하 을이라 한다)를 고용함에 있어서 쌍방은 다음과 같은 계약을 체결한다.",
+    "chunk_length": 71,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "이상의 계약을 준수키 위하여 갑·을은 계약서 2통을 작성 각 서명 날인한 후1통씩을 소지한다.",
+    "chunk_length": 52,
+    "type": "후문",
+    "content_labels": [
+      "계약서의 교부"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "20  년    월    일",
+    "chunk_length": 15,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "갑: (인)\n주소 :",
+    "chunk_length": 11,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 인적사항",
+      "회사의 기명날인"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "을: (인)\n주소 :",
+    "chunk_length": 11,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 인적사항",
+      "회사의 기명날인"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 (쌍방의 자격확인)\n갑은     시    구    동    번지 소재     점포에     약방이라는 상호를 가지고     시장(도지사)으로부터 의약품판매업(또는 약국개설)허가를 받은 자이고 을은 약사면허를 받은 자이며 현재 그 면허가 유효하며 그 면허증을 가진 자임을  확인한다. 을은 제 2 조에 정한 고용일로부터 위 면허증을 갑에게 교부하여 약방에 배치토록 하여야 한다.",
+    "article_number": 1,
+    "article_title": "제1조 (쌍방의 자격확인)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 214,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 (을의 고용)\n갑은 그가 경영하는 위 약방에 법령이 정하는 시설을 갖추고 을에게 이를 관리시키기 위하여 을을     년   월   일부터 고용한다.",
+    "article_number": 2,
+    "article_title": "제2조 (을의 고용)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 86,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제3조 (을의 보수청구권)\n갑은 을이 위 약방 관리에 필요한 노무를 제공하는 대가로 월 금    만원을 을에게 지급할 의무를 진다.",
+    "article_number": 3,
+    "article_title": "제3조 (을의 보수청구권)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 73,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약금의 지급"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제4조 (갑의 권리)\n갑은 을의 노무를 제공받을 권리를 가지며 다음과 같은 지시를 행할 수 있다.\n1. 을의 근무시간에 관한 사항\n2. 을의 근무시 유의할 사항항 및 고객에 대한 예의와 방법에 관한 사항\n3. 약사법에 규정된 의무의 준수에 관한 사항\n4. 의약품판매의 관리 및 그 금액관리에 관한 사항\n5. 기타 출퇴근에 관한 사항",
+    "article_number": 4,
+    "article_title": "제4조 (갑의 권리)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 185,
+    "items_count": 6,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제5조 (계약금의 지급)\n회사는 방송인의 방송활동에 대하여 계약금을 지급하기로 협의가 되면, 그 구체적인 내용은 약정서에서 정하는 바에 따른다.",
+    "article_number": 5,
+    "article_title": "제5조 (계약금의 지급)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 80,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약금의 지급"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제6조 (계약의 수정 변경)\n본 계약의 수정 또는 변경은 각 당사자 또는 그 권한 있는 대표자나 대리인이 정당하게 서명 또는 날인한 서면에 의하여서만 할 수 있다.",
+    "article_number": 6,
+    "article_title": "제6조 (계약의 수정 변경)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 91,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약 변경에 대한 합의"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제7조 (을의 근무시간)\n본 계약의 수정 또는 변경은 각 당사자 또는 그 권한 있는 대표자나 대리인이 정당하게 서명 또는 날인한 서면에 의하여서만 할 수 있다.",
+    "article_number": 7,
+    "article_title": "제7조 (을의 근무시간)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 89,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제8조 (을의 면책)\n갑이 위 약방의 영업취소 또는 정지처분을 발음으로 인하여 을이 근무를 제공할 수 없을 경우 을은 그 월분의 보수전액을 청구할 수 있다.",
+    "article_number": 8,
+    "article_title": "제8조 (을의 면책)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 87,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "면책"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제9조 (갑의 책임)\n을이 의약품의 조제. 취급. 판매 기타 관리로 인하여 신체 또는 생명에 손해를 입  었을 경우 을의 고의나 중대한 과실로 인한 손해가 아닌한 갑은 이를 배상하여야 한다.",
+    "article_number": 9,
+    "article_title": "제9조 (갑의 책임)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 106,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제10조 (을의 책임과 보수의 공제)\n을은 갑으로부터 지시받은 가격으로 의약품을 판매 또는 조제하여  야 하며 이를 위반함으로 인하여 갑에게 손해를 발생케 할 경우 갑은 을을 즉시 해고하고 그 손해의 배상을 청구할 수 있다.",
+    "article_number": 10,
+    "article_title": "제10조 (을의 책임과 보수의 공제)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 125,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "을이 의약품 판매 또는 조제를 잘못(고의 또는 과실)함으로 인하여 타인에게 손해를 가하여 갑이 사용자로서의 손해를 부담할 경우 을은 갑이 입은 손해를  배상하여야 한다.",
+    "article_number": 11,
+    "article_title": "을이 의약품 판매 또는 조제를 잘못(고의 또는 과실)함으로 인하여 타인에게 손해를 가하여 갑이 사용자로서의 손해를 부담할 경우 을은 갑이 입은 손해를  배상하여야 한다.",
+    "chunk_length": 94,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제12조 (계약의 해지)\n을이 그 면허를 취소 또는 자격을 상실·정지당할 경우 갑은 이 계약을 해지하고 근무일까지의 보수를 지급하며 을이 제 4 조에 규정된 지시를 위반하거나 제 8 조의 가격을 위반하여 판매함으로서 고객이 현저히 감소한 경우에도 이 계약을 해지할 수 있다. 단 갑은 10일 전에 해지의 통고를 하여야 한다. 을은 갑이 보수의 지급을 50일 이상 지체하거나 약사법에 규정된 법규위반을 지시하여 노무의 제공을 받고자할 경우 계약을 해지할 수 있다. 이 경우 을은 갑에게 7일 이전에 계약해지의 통고를 하여야 한다.",
+    "article_number": 12,
+    "article_title": "제12조 (계약의 해지)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 295,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 해제, 해지"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제13조 (관례의 적용)\n기타 계약에 약정되지 아니한 사항은 관례에 따른다.",
+    "article_number": 13,
+    "article_title": "제13조 (관례의 적용)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 42,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "준거법"
+    ],
+    "document_title": "기타고용계약서_0131",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "약사법, 근로기준법, 약사법 시행령",
+    "document_purpose": "의약품 판매업자와 약사 간의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "약국 운영 과정에서 약사와의 고용 계약을 체결할 때 활용. 특히 약사의 근무 조건, 보수, 책임 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

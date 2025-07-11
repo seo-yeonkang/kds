@@ -1,0 +1,408 @@
+[
+  {
+    "text": "매니저 계약서",
+    "chunk_length": 7,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(주)__________________(이하 “갑”이라 한다.)와 ________ ( - ) (이하 “을”이라 한다.) 은 상호 신뢰를 바탕으로 다음과 같이 계약한다.",
+    "chunk_length": 93,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "끝.",
+    "chunk_length": 2,
+    "type": "기타",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "년 월 일",
+    "chunk_length": 5,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "갑 : (주)\n주소 :",
+    "chunk_length": 12,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 인적사항"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "을 :",
+    "chunk_length": 3,
+    "type": "기명날인",
+    "content_labels": [
+      "피고용인의 인적사항"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. “을”은 “갑”이 운영 또는 진행하는 업무를 지원하고, “갑”은 그에 상당한 출연료를 “을”에게 지급한다.",
+    "article_number": 1,
+    "article_title": "1. “을”은 “갑”이 운영 또는 진행하는 업무를 지원하고, “갑”은 그에 상당한 출연료를 “을”에게 지급한다.",
+    "chunk_length": 62,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. “을”은 “갑”이 정한 일정표에 맞춰 차질이 없도록 스케쥴관리를 해야한다.",
+    "article_number": 2,
+    "article_title": "2. “을”은 “갑”이 정한 일정표에 맞춰 차질이 없도록 스케쥴관리를 해야한다.",
+    "chunk_length": 44,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "3. 계약기간\n(1) 200  년   월   일부터 200  년   월   일까지 (  )개월 기간으로 한다.\n(2) 약정기간내에는 중복 계약할 수 없다.",
+    "article_number": 3,
+    "article_title": "3. 계약기간",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 86,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "계약기간"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 방송출연료\n“갑”은 “을”에게 전속 계약금으로 총 출연료에 _______원을 계약시에 지불하고, 남은 금액을 매 월 20일에 나누어 지급한다.",
+    "article_number": 4,
+    "article_title": "4. 방송출연료",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 82,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약금의 지급"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "5. 업무내용\n1. 인터넷 CF제작출연/모델활동/영화제작/기타활동",
+    "article_number": 5,
+    "article_title": "5. 업무내용",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 36,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "6. 근무장소 및 시간\n(1) “갑”이 정한 장소\n(2) 20:00 - 04:00 (다음날) 사이며 “갑”정하는 시간 내에 출연한다.\n(3) 방송출연장소 및 시간, 출연횟수는 “갑”이 결정하는 대로 이의 없이 따른다.",
+    "article_number": 6,
+    "article_title": "6. 근무장소 및 시간",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 121,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "7. 방송물과 사진의 저작권\n(1) 방송 및 홍보를 위해서 제작하는 모든 영상물(동영상 제작물, 사진촬영, 방송 및 홍보용) 은 “갑”의 저작권임을 인정하고 이에 대한 어떠한 경우에도 “을”은 사용금지 요구 또는 금품을 요구할수 없다.\n(2) 영상물사용 기간은 무기한으로 한다.",
+    "article_number": 7,
+    "article_title": "7. 방송물과 사진의 저작권",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 155,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "지적재산권"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "8. 해약사유\n“을”로 인하여 방송진행 자체가 원활하지 않을 경우는 운영자의 판단에 의해 해약를 통보할 수 있다. (단, “을”이 특별한 노력으로 인해서 회사의 이익이 증대되는 경우, “갑”은 이에 준하는 출연료 인상을 위해 노력 해야 한다.)",
+    "article_number": 8,
+    "article_title": "8. 해약사유",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 136,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 해제, 해지"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "9. 특별활동\n회사측에서 원하는 특별활동 (연습 및 회의, 야외촬영, 기타출연 및 촬영)등의 요구가 있을 경우, 장소를 불문하고 즉시 응해야 한다.",
+    "article_number": 9,
+    "article_title": "9. 특별활동",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 82,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "10. 별도의 수입 분배와 매니저\n“갑”이 지원하는 방송 및 연예 활동 (영화제작, CF제작 및 기타활동 등)으로 수익이 발생할 경우 “을”과 “갑”은 그 순수익을 7:3 (“을” 70 : “갑” : 30 //총 100분)으로 나눈다.",
+    "article_number": 10,
+    "article_title": "10. 별도의 수입 분배와 매니저",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 131,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 내용",
+      "계약금의 지급"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "11. 절대금지 사항\n“갑”과 계약기간 동안 “을”은 타사에  출연할 수 없다.\n(단, “갑”과 상의하여 승낙을 득한 경우는 제외한다.)",
+    "article_number": 11,
+    "article_title": "11. 절대금지 사항",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 76,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "경쟁제한 의무"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "12 “을”의 절대 준수 사항\n(1) “을”은 활동에 대한 모든 책임을 대신하여, “갑” 입게 되는 피해보상을 “갑”에게 보상해야 한다. 이를 불이행시 법적인 처벌(민, 형사)도 감수한다.\n(2) 본 계약을 위반시 “을”은 계약금의 10배의 금액을 이유 없이 즉시 “갑”에게 보상해야 한다.",
+    "article_number": 12,
+    "article_title": "12 “을”의 절대 준수 사항",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 162,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "13. 양도 및 승계제한\n이 협약 상 권리 의무의 전부 또는 일부를 상대방의 사전 서면 동의 없이 제3자에게 양도, 승계 시키거나 담보 제공하지 못한다.",
+    "article_number": 13,
+    "article_title": "13. 양도 및 승계제한",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 85,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "권리의 양도, 처분 금지"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "14. 분쟁해결\n(1) 이 협약의 해석 및 적용 등에 있어 이견 또는 분쟁이 발생하는 경우 상호 합의하여 해결하도록 최선의 노력을 다하여야 한다.\n(2) 전항의 노력에도 불구하고 해결되지 않을 경우, 서울지방법원을 제 1심 관할 법원으로 한다.",
+    "article_number": 14,
+    "article_title": "14. 분쟁해결",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 136,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "관할법원"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "15. 기타사항\n(1) 위의 사항은 “갑”과 “을”과의 합의된 계약서이며 서로가 성실히 이행해야 한다.\n(2) 계약금 지불 후, 위 계정사항을 위반 시, 지불각서가 효력을 발휘하여 형사법에 의거, 집행한다.\n(3) 소득세법 상 개인 근로소득 원천징수를 한다.\n(4) 위 내용을 충분히 이해하고 아래에 서명하고 계약한 후 각각 한 부씩 보관한다.",
+    "article_number": 15,
+    "article_title": "15. 기타사항",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 192,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0050",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-25",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 소득세법",
+    "document_purpose": "방송 및 연예 산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "방송 및 연예 산업에서 매니저와 출연자 간의 계약을 체결할 때 활용. 특히 방송출연, CF제작, 영화제작 등의 활동에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

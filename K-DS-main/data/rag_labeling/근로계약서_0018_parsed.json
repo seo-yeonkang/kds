@@ -1,0 +1,83 @@
+[
+  {
+    "text": "통지서",
+    "chunk_length": 3,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0018",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "근로계약의 종료와 퇴직 절차를 공식적으로 통지하여 근로자와 사용자 간의 의무 이행을 명확히 하기 위함",
+    "document_use_case": "근로계약이 종료된 근로자에게 계약 종료 사실을 통지하고 퇴직 절차를 안내하는 데 활용.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "소 속 :\n직 위 :\n성 명 : K",
+    "chunk_length": 19,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0018",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "근로계약의 종료와 퇴직 절차를 공식적으로 통지하여 근로자와 사용자 간의 의무 이행을 명확히 하기 위함",
+    "document_use_case": "근로계약이 종료된 근로자에게 계약 종료 사실을 통지하고 퇴직 절차를 안내하는 데 활용.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "□ 귀하와 2021. 6. 18.자로 체결한 근로계약이 정한 근로계약기간이 만료되어 2021. 9.16.자로 근로계약이 종료되었음을 알려드리고, 퇴직절차의 이행에 협조하여주시기 바랍니다.",
+    "chunk_length": 104,
+    "type": "본문",
+    "content_labels": [
+      "퇴직 절차",
+      "근로계약의 종료"
+    ],
+    "document_title": "근로계약서_0018",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "근로계약의 종료와 퇴직 절차를 공식적으로 통지하여 근로자와 사용자 간의 의무 이행을 명확히 하기 위함",
+    "document_use_case": "근로계약이 종료된 근로자에게 계약 종료 사실을 통지하고 퇴직 절차를 안내하는 데 활용.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "□ 근거 : 2021. 6. 18.자 작성 K와의 근로계약서",
+    "chunk_length": 33,
+    "type": "본문",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0018",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "근로계약의 종료와 퇴직 절차를 공식적으로 통지하여 근로자와 사용자 간의 의무 이행을 명확히 하기 위함",
+    "document_use_case": "근로계약이 종료된 근로자에게 계약 종료 사실을 통지하고 퇴직 절차를 안내하는 데 활용.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2021년 09월 29일",
+    "chunk_length": 13,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0018",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-15",
+    "document_category": "고용계약",
+    "related_law": "근로기준법",
+    "document_purpose": "근로계약의 종료와 퇴직 절차를 공식적으로 통지하여 근로자와 사용자 간의 의무 이행을 명확히 하기 위함",
+    "document_use_case": "근로계약이 종료된 근로자에게 계약 종료 사실을 통지하고 퇴직 절차를 안내하는 데 활용.",
+    "public_domain_sources": null
+  }
+]

@@ -1,0 +1,876 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0222",
+                "document_size": "106kb",
+                "document_page_count": "3",
+                "document_total_ids": "42",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-28",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "국민체육진흥법, 근로기준법",
+                    "document_purpose": "체육산업에서 경기지도자 및 선수의 고용 조건, 권리, 의무를 명확히 규정하고 고용 계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "체육단체나 스포츠 구단에서 경기지도자와 선수 간의 고용 계약을 체결할 때 활용. 특히 선수단의 관리, 훈련, 경기 참여 등의 근로 조건을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "선 수 입 단 계 약 서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "를 \"갑\"이라 칭하고 본 경기부에 입단하는 경기지도자 및 선수를 \"을\"로 칭하여 다음과 같이 입단계약을 체결한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "제1조 (계약당사자)"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "(갑) 주소 :\n주소 :\n성명 :\n주민등록번호 :"
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "일부무효"
+                    ],
+                    "description": "제2조 (계약의 일부 무효)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "일부무효"
+                    ],
+                    "description": "본 계약의 일부 조항이 강행규정 등에 위배되어 무효가 되더라도, 이는 본 계약서의 다른 조항의 효력 여부에 영향을 미치지 아니 한다. 다만, 일부 조항이 무효가 되면서 계약의 목적을 달성할 수 없음이 객관적으로 명백해진 경우에는 본 계약 전체를 무효로 한다."
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "제3조 (목적)"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적",
+                        "신의성실"
+                    ],
+                    "description": " \"갑\"은 \"을\"을 고용함에 있어 \"을\"에 대한 관리 및 육성 운영에 관한 필요한 사항을 규정하여 상호 이를 성실하게 이행함으로써 본 선수단을 통한 지역체육 발전에 기여 하는데 목적이 있다."
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제4조 (소속)"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "\"갑\"과 본 계약서에 의하여 입단한 \"을\"을 (@지역)군 소속으로 한다."
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "제5조 (계약기간)"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "\"갑\"은 \"을\"의 계약기간은   . . .∼   . . 까지로 한다. 단, 연도중에 입단한 자는 당해 연도말까지로 한다."
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제6조 (채용)"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "신의성실"
+                    ],
+                    "description": "\"갑\"은 \"을\"을 고용함에 있어 선수의 기량과 제반여건을 고려하고, \"을\"은 \"갑\"이 제시한 사항을 성실하게 이행하는 조건으로 입단한다."
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제7조 (보수)"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "지도자 및 선수의 연봉지급은 총액을 12월로 나누어 일정액을 매월 말일에 지급 한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제8조 (훈련)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① \"을\"의 훈련은 \"갑\"이 정한 장소에서 지도자의 지도에 따라 개인 및 집합훈련을 실시한다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 훈련시간은        복무조례 제13조(근무시간)에 준한다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제9조 (경기지도자의 의무)"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 지도자는 \"갑\"의 지시에 따라 입단선수들의 훈련에 전념하여 높은 기량을 연마할 수 있도록 기술적인 지도에 최선의 노력을 다하여야 한다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "통지의무"
+                    ],
+                    "description": "② 지도자는 선수들의 훈련상황을 매월 평가하고, 평가결과를 익월 5일까지 \"갑\"에게 종합 보고하여야 한다."
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "통지의무"
+                    ],
+                    "description": "③ 지도자는 훈련에 불참한 선수에 대하여 그 원인을 규명하여 \"갑\"에게 보고하여야 한다."
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "선량한 관리자의 의무"
+                    ],
+                    "description": "④ 지도자는 선수의 사기앙양에 기여하고 본 팀원으로서 품의를 손상하지 않도록 하며, 훈련 중 안전사고 예방에 주력하여야 한다."
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제10조 (선수의 의무)"
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "신의성실"
+                    ],
+                    "description": "① 선수는 단장과 경기지도자의 훈련 지시사항을 성실하게 이행하고 부단하게 기량을 연마하여 지역과 직장의 명예를 위해 선수로서의 책임과 의무를 다하여야 한다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "신의성실"
+                    ],
+                    "description": "② 선수는 상호 신뢰와 화합으로 직장운동경기부의 발전에 최선을 다하고 항상 단정한 용\n모와 품위를 유지하여야 한다."
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제11조 (복무)"
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타",
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "\"갑\"은 \"을\"에 대하여 관리규정 제7조에 의거 복무케하며, \"을\"이 복무규정을 위반 했을시는 해임할 수 있다."
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "제12조 (계약의 해지)"
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "① \"갑\"의 지시사항을 \"을\"이 이유 없이 이행하지 아니하거나 본 팀원 상호간 불화합 및 사회적 품의 손상행위 등 직장팀 발전에 저해하는 행동 및 우려가 있을 경우에는 \"갑\"은 직권으로 계약을 해지할 수 있다."
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "통지의무",
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "② \"을\"은 훈련성적이 부진하고 질병 등 신체여건상 1개월 이상 계속 훈련이 불가능하다고 판단될 시는 자진하여 사직원을 제출하여야 하며, \"갑\"은 이를 서면으로 계약해지하여야 한다."
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "③예산 미확보 등 불가피한 사정으로 팀을 해체할 시는 그 발생일을 해지일로 본다."
+                }
+            },
+            {
+                "id": "34",
+                "format": {
+                    "position": {
+                        "line": "34"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "④ \"을\"은 각 호의 계약해지 사안에 대하여 일체의 이의를 제기할 수 없다."
+                }
+            },
+            {
+                "id": "35",
+                "format": {
+                    "position": {
+                        "line": "35"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제13조 (의무이행)"
+                }
+            },
+            {
+                "id": "36",
+                "format": {
+                    "position": {
+                        "line": "36"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "경쟁제한 의무"
+                    ],
+                    "description": "① \"을\"은 계약기간 중 임의로 본 팀을 이탈하거나 다른 실업팀으로 입단할 수 없다."
+                }
+            },
+            {
+                "id": "37",
+                "format": {
+                    "position": {
+                        "line": "37"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "용어의 정의"
+                    ],
+                    "description": "② \"을\"의 본 팀 임의 이탈이라 함은 \"갑\", \"을\"간의 계약을 성실하게 이행하지 못함을 말한다. 다만, \"을\"의 신체적 질환, 가정형편 등으로 인한 선수생활의 종료 등 \"갑\"이 판단하며 사회 통념상 합당하다고 인정할 때에는 예외로 한다."
+                }
+            },
+            {
+                "id": "38",
+                "format": {
+                    "position": {
+                        "line": "38"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법"
+                    ],
+                    "description": "제14조 (준용규정)"
+                }
+            },
+            {
+                "id": "39",
+                "format": {
+                    "position": {
+                        "line": "39"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법"
+                    ],
+                    "description": "\"갑\"은 \"을\"에 대하여 본 계약 이외에 복무사항에 대하여는        복무조례를 준용한다."
+                }
+            },
+            {
+                "id": "40",
+                "format": {
+                    "position": {
+                        "line": "40"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "년  월   일"
+                }
+            },
+            {
+                "id": "41",
+                "format": {
+                    "position": {
+                        "line": "41"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항"
+                    ],
+                    "description": "계약자 (갑) :\n주소 :\n성명 :"
+                }
+            },
+            {
+                "id": "42",
+                "format": {
+                    "position": {
+                        "line": "42"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항"
+                    ],
+                    "description": "피계약자(을) :\n주소 :\n성명 :"
+                }
+            }
+        ]
+    }
+}

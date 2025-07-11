@@ -1,0 +1,150 @@
+[
+  {
+    "text": "일용직 근로계약서",
+    "chunk_length": 9,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "20OO년 O월 O일",
+    "chunk_length": 11,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“갑“ O O O (인)",
+    "chunk_length": 13,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "\"을\" 근로자 O O O (인) ",
+    "chunk_length": 18,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "1. 당사자\n<table><tr><td  rowspan=\"3\">사용자 (갑)</td><td>사업체명</td><td  colspan=\"3\">OOOO</td></tr><tr><td>대표자성명</td><td>O O O</td><td>사업종류</td><td></td></tr><tr><td>소 재 지</td><td  colspan=\"3\">OO시 OO구 OO동 OO번지</td></tr><tr><td  rowspan=\"2\">근로자 (을)</td><td>성 명</td><td>O O O</td><td>주민등록번호</td><td>-</td></tr><tr><td>주 소</td><td  colspan=\"3\">OO시 OO구 OO동 OO번지</td></tr></table>",
+    "article_number": 1,
+    "article_title": "1. 당사자",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 367,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2. 근로조건\n(1) 직종 :\n(2) 급여의 형태 :  일급 원/1일 8시간 기준\n(3) 급여의 계산 및 지급방법 : 급여는 원칙으로 매월 1일부터 말일까지 계산하여 익월 5일에 현금 또는 수취계좌번호에 입금하는 방법으로 지급한다. 1일 8시간 또는 월 소정근로시간을 근로하지 않은 경우에도 위와 같이 지급하되 일할 또는 월 할 계산하여 지급한다.",
+    "article_number": 2,
+    "article_title": "2. 근로조건",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 194,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "3. 근로기간 :\n20OO년 O월 O일부터  20OO년 O월 O일까지\n당 근로계약에 의해 근무하는 근로자는 위 근로계약기간이 종료하면 별도의 조치없이 당연히 근로관계가 종료된다. 다만 위 기간이후에도 계속 근로하고자 하는 경우에는 “을”은 “갑”의 동의를 얻어 새로이 근로계약을 체결하여야 한다.",
+    "article_number": 3,
+    "article_title": "3. 근로기간 :",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 165,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 기타 근로조건\n기타 본 근로계약서에 기재되지 않은 사항은 당사 사규 또는 법령 및 관례에 의한다.",
+    "article_number": 4,
+    "article_title": "4. 기타 근로조건",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 57,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0024",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-17",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "일용직 근로자의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "건설, 제조, 서비스 등 다양한 산업에서 일용직 근로자와의 계약을 체결할 때 활용. 특히 단기 프로젝트, 임시 작업 또는 일용직 근로자를 고용하는 상황에서 근로자의 근로 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

@@ -1,0 +1,129 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "근로계약서_0018",
+                "document_size": "30kb",
+                "document_page_count": "1",
+                "document_total_ids": "5",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-15",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "근로(고용)계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법",
+                    "document_purpose": "근로계약의 종료와 퇴직 절차를 공식적으로 통지하여 근로자와 사용자 간의 의무 이행을 명확히 하기 위함",
+                    "document_use_case": "근로계약이 종료된 근로자에게 계약 종료 사실을 통지하고 퇴직 절차를 안내하는 데 활용.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "통지서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "소 속 :\n직 위 :\n성 명 : K"
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "퇴직 절차",
+                        "근로계약의 종료"
+                    ],
+                    "description": "□ 귀하와 2021. 6. 18.자로 체결한 근로계약이 정한 근로계약기간이 만료되어 2021. 9.16.자로 근로계약이 종료되었음을 알려드리고, 퇴직절차의 이행에 협조하여주시기 바랍니다."
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "□ 근거 : 2021. 6. 18.자 작성 K와의 근로계약서"
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "2021년 09월 29일"
+                }
+            }
+        ]
+    }
+}

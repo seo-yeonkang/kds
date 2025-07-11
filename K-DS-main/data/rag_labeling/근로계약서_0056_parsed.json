@@ -1,0 +1,465 @@
+[
+  {
+    "text": "근로계약서",
+    "chunk_length": 5,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“사업주” 상호: (@회사) 주식회사\n법인등록번호: (@고유번호)\n주소: (@주소 1)",
+    "chunk_length": 48,
+    "type": "서문",
+    "content_labels": [
+      "사용자의 인적사항"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“근로자” 성명: (@성함 1)\n생년월일: (@식별번호)\n주소: (@주소 2)",
+    "chunk_length": 43,
+    "type": "서문",
+    "content_labels": [
+      "근로자의 인적사항"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“사업주”와 “근로자”는 다음과 같이 근로 및 연봉계약을 체결하고 성실히 이행할 것을 약정한다.",
+    "chunk_length": 53,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "위와 같이 연봉 및 근로계약을 체결하였음을 확인하며, 본 계약서 2통을 작성하여, 각각 서명 날인 후 “사업주”와 “근로자”가 1통씩 보관한다.",
+    "chunk_length": 80,
+    "type": "후문",
+    "content_labels": [
+      "계약서의 교부"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2022 년 12 월 12 일",
+    "chunk_length": 16,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“사업주”\n사업체명 : (@회사) 주식회사\n주 소 : (@주소 1)\n대 표 자 : (@성함 2) (서명 또는 인)",
+    "chunk_length": 63,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "본인은 본 근로계약조건 및 관련된 규정에 대하여 확인하였습니다.",
+    "chunk_length": 35,
+    "type": "기타",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "“근로자”\n주민등록번호 : (@식별번호)\n주 소 : (@주소)\n성 명 : (@성함 1) (서명 또는 인)",
+    "chunk_length": 58,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 인적사항",
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 1 조 【계약의 목적】\n“사업주”는 “근로자”의 사업을 영위하기 위해 “근로자”를 고용하여 제7조에서 정한 보수를 지급하고, “근로자”는 “사업주”를 위하여 필요한 기술 및 근로를 제공함에 있어 이에 관한 의무를 규정함을 목적으로 한다.",
+    "article_number": 1,
+    "article_title": "제 1 조 【계약의 목적】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 134,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 목적"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 2 조 【근로 개시일】\n근로자는 2022년 12월 12일부터 본 근로계약서에 따라 근로를 개시하며, (@날짜)에 재계약을 진행한다.",
+    "article_number": 2,
+    "article_title": "제 2 조 【근로 개시일】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 75,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 3 조 【근로자의 의무】\n①  “근로자”는 “사업주”의 피고용인으로서 품위를 지키며 “사업주”의 제반규칙을 준수하여야 한다.\n②  “근로자”는 최선을 다하여 “사업주”의 업무지시에 응하며 본 계약 때문에 부과된 업무를 성실히 수행하여야 한다.",
+    "article_number": 3,
+    "article_title": "제 3 조 【근로자의 의무】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 137,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 4 조 【근무부서 및 업무】\n①  근무장소 : 회사 정책에 따름\n②  근무부서 및 직책 : 회사 정책에 따름\n③  업무내용 :\n④  “사업주”는 업무상 필요하다고 인정되는 경우 근무부서 또는 업무를 변경할 수 있다. 이 경우 “근로자”는 정당한 이유 없이 이를 거부할 수 없다.",
+    "article_number": 4,
+    "article_title": "제 4 조 【근무부서 및 업무】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 157,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "담당 업무",
+      "근무 장소"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 5 조 【근로시간】\n①  근로시간 : 주5일, 1일 8시간 주 40시간 근무를 원칙으로 한다. 단, 필요하면 시간 외 근무를 할 수 있다.\n② 시업 및 종업시간 : 09 시 00 분부터 17 시 00 분까지로 한다. 다만, 직무의 내용 또는 특수한 사정으로 필요한 경우 “회사”는 상기 근무시간을 변경할 수 있으며, 교대근무 또는 시차근무 등으로 이를 조정할 수 있다.\n③  휴게시간 :      12시 00분부터13시 00분 까지(점심시간 포함)",
+    "article_number": 5,
+    "article_title": "제 5 조 【근로시간】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 252,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "근로 시간"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 6 조 【휴일 및 휴가】\n①  주휴일: 일요일\n②  “사업주”는 “근로자”에게 근로기준법이 정하는 바에 따른 휴가 일수를 부여한다.\n③  “근로자”가 휴가를 사용하기 위하여는 “사업주”에 사전 신청해야 하며 이를 “사업주”는 필요 시 휴가일시를 조정할 수 있다.",
+    "article_number": 6,
+    "article_title": "제 6 조 【휴일 및 휴가】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 148,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "휴일",
+      "휴가"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 7 조 【보수】\n① 사업자가 지급하는 보수는 다음과 같은 내용으로 정한다.\n(@날짜)\n<table><tbody><tr><td>구분</td><td>금액</td><td>산출근거</td></tr><tr><td>연봉총액</td><td>(@금액)</td><td>3개월 수습기간 (@금액)만원 계산</td></tr><tr><td>기본급</td><td>(@금액)</td><td>(@금액)*12개월</td></tr></tbody></table>\n② 지급일: 매월 25일 (휴일일 경우에는 전일 지급)\n③ 지급방법: “근로자”의 은행계좌로 송금\n은행 (@계좌번호) (예금주: (@성함1))",
+    "article_number": 7,
+    "article_title": "제 7 조 【보수】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 322,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "임금액"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 8 조 【사회보험】\n본 근로계약에는 다음의 사회보험이 적용된다.\n1.  고용보험\n2.  산재보험\n3.  국민연금\n4.  건강보험",
+    "article_number": 8,
+    "article_title": "제 8 조 【사회보험】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 73,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "사회보험의 가입"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 9 조 【근태사항】\n다음 각 호의 사유가 있는 경우에는 취업규칙상 관련 규정을 적용하여 연봉을 지급한다.\n1. 휴직\n2. 결근\n3. 감급, 정직",
+    "article_number": 9,
+    "article_title": "제 9 조 【근태사항】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 82,
+    "items_count": 4,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 10 조 【퇴직금】\n① “사업주”는 “근로자”의 퇴직 시 근로연수 1년에 대하여 근로기준법 및 단체협약에 따른 퇴직금을 지급한다.\n② 회사는 근로자의 안정적인 노후생활 보장을 위하여 퇴직연금제도를 설정하며 퇴직연금제도에 관한 세부사항은 퇴직연금규약에서 별도로 정한 바에 따른다.",
+    "article_number": 10,
+    "article_title": "제 10 조 【퇴직금】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 157,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "퇴직금"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 11 조 【퇴직절차】\n“근로자”는 퇴직하고자 할 경우 사직희망일 30일 전에 사직원을 제출하여야 하며 업무인계 및 후임자를 선임할 때까지 성실하게 근무하여야 한다.",
+    "article_number": 11,
+    "article_title": "제 11 조 【퇴직절차】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 93,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "퇴직 절차"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 12 조 【비밀준수 의무】\n① “근로자”는 계약기간 동안 본인이 직접 또는 간접적으로 관련되어 지득한 회사의 영업비밀 보호를 위하여 신의성실의 원칙에 입각하여 최선을 다하여야 하며, 재직 중 또는 퇴직 후에라도“근로자”가 날인하여 “사업주”에게 제출한 “비밀유지서약서”의 비밀유지의무 사항을 회사의 사전 허가 없이 사용, 복제, 누설해서는 아니 된다.\n② 전항을 위반하여 “근로자”의 고의 또는 과실로 “사업주”에게 손실을 입힌 경우, 부정경쟁방지 및 영업비밀보호에 관한 법률 등 관련 조항 또는 회사 내규에 의해 그 손실액을 배상하여야한다",
+    "article_number": 12,
+    "article_title": "제 12 조 【비밀준수 의무】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 304,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "비밀 유지 의무"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 13 조 【계약해지 사유】\n① 무단으로 계속하여 5일 이상 또는 월간 7일 이상 결근한 경우\n② 취업규칙 또는 “사업주”의 정당한 업무명령을 위반하여 해고 결정이 있는 경우\n③ 이력, 경력을 위조하여 허위로 입사하였을 경우\n④ “근로자”의 일신상의 사유로 계속적 근로가 불가능한 경우\n⑤ 기타 사회상규를 위반하여 계속적으로 근로계약을 유지할 수 없다고 판단된 경우",
+    "article_number": 13,
+    "article_title": "제 13 조 【계약해지 사유】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 205,
+    "items_count": 5,
+    "type": "article",
+    "content_labels": [
+      "근로계약의 종료"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 14 조 【손해배상】\n“근로자”의 귀책사유로 인해 계약기간 중 또는 계약해지 후 “사업주”에게 손해를 입힐 경우 “근로자”는 “사업주”에게 실손해액을 배상하여야 한다.",
+    "article_number": 14,
+    "article_title": "제 14 조 【손해배상】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 95,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제 15 조 【기타사항】\n① 기타 본 계약서에 명시되지 않은 사항은 “사업주”의 취업규칙 등 제 규정과 기타 노동관계법령이 정하는 바에 따른다.\n② 본 계약은 “사업주”와 “근로자”의 서명 또는 기명날인으로 효력이 발생된다.\n③ 본 계약은 반드시 서면에 의하여만 변경될 수 있다.",
+    "article_number": 15,
+    "article_title": "제 15 조 【기타사항】",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 156,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "준거법"
+    ],
+    "document_title": "근로계약서_0056",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-04",
+    "document_category": "고용계약",
+    "related_law": "근로기준법 ",
+    "document_purpose": "사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+    "document_use_case": "일반적인 기업에서 사용자와 근로자 간의 근로조건을 명확히 하기 위해 사용됨. 특히 근로시간, 임금, 연차, 퇴직금 등 근로자 권리와 의무를 명확히 하기 위해 다양한 산업 분야에서 활용됨.",
+    "public_domain_sources": null
+  }
+]

@@ -1,0 +1,1194 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0305",
+                "document_size": "128kb",
+                "document_page_count": "4",
+                "document_total_ids": "58",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-29",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법, 근로자의 날 제정에 관한 법률, 관공서의 공휴일에 관한 규정",
+                    "document_purpose": "학원산업에서 사용자와 근로자 간의 근로조건, 권리, 의무를 명확히 규정하고 근로계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "학원에서 강사와의 계약을 체결할 때 활용. 특히 학원 운영 과정에서 강사의 근로 조건을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "학원 근로계약서 "
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "ㅇㅇㅇㅇ (이하 ‘학원장’이라 함)와 근로자 ㅇㅇㅇㅇ (이하 ‘강사’이라 함)는(은) 다음과 같이 근로계약\n을 체결하고 이를 성실히 이행할 것을 약정한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "제1조 【 계약기간 】"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "① 근로계약기간은 20  년   월   일부터  20   년   월   일까지로 한다. 단, 기간의 정함이 없는 경우에는 만료일을 명시하지 아니한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "② 만료일이 없는 경우 자동 연장된다."
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제2조 【근무 장소 및 업무내용】"
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① ‘강사’의 근무 장소 :"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② ‘강사’의 업무 내용 :"
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "③ ‘학원장’은 필요한 경우 ‘강사’의 근무 장소 및 업무를 변경할 수 있으며, ‘강사’가 이에 동의할 경우에만 변경이 가능하다."
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제3조 【근로시간 및 휴게시간】"
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 근로시간은 하루 최대 8시간에 휴일근무를 포함한 연장근로를 총 12시간까지 허용하여 주52시간제를 원칙으로 하며, 근무시간 및 휴게시간은 다음과 같다.\n근무일:   시업시간:   종업시간:   휴게시간 "
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 휴게시간은 1일 4시간인 경우 30분, 8시간인 경우 1시간의 휴게시간을 부여한다."
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "③ 근로시간 및 휴게시간은 업무사정에 따라 변경할 수 있으며 ‘강사’는 이에 동의한다."
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "④ 업무수행에 필요하다고 판단되는 경우 ‘학원장’은 연장근로, 야간근로, 휴일근로를 명할 수 있으며, ‘강사’는 특별한 사정이 없는 한 이에 동의한다."
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제4조 【휴일 및 휴가】"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 주휴일은 매주 일요일로 한다. 다만, ‘학원장’은 필요한 경우 주휴일을 다른 날로 대체할 수 있으며, ‘강사’는 이에 동의한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 주휴일,「근로자의 날 제정에 관한 법률」에 따른 근로자의 날(5월 1일)은 유급휴일로 한다. 단, 주 휴일의 경우는 ‘강사’가 한 주 동안 소정근로일을 개근한 경우에 한하며, 주휴일과 유·무급 휴일이 중복되었을 경우에는 하나의 휴일만 적용한다."
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "관계법령준수"
+                    ],
+                    "description": "③ 연차유급휴가는 「근로기준법」에서 정하는 바에 따른다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "④ 대통령령으로 정하는 휴일 「관공서의 공휴일에 관한규정」은 유급휴일로 정한다. (상시 5인 이상 근로자 사업장부터 시행 가능)"
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제5조 【임금】"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "① 임금은 연봉제를 원칙으로 하며, 당사자 간 합의하에 시간외 근로시간에 대한 수당 및 기타 학원의 임의수당을 연봉에 포함하여 지급하기로 하며 ‘강사’는 이에 동의한다."
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "② 계약연봉 총액 :                 원정"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "③ 연봉계약기간: 20  년   월    일부터  20  년   월    일까지(계약만료 1개월 전후에 재계약하는 것을 원칙으로 하며, 1개월 전후 상대방에게 통지가 없는 경우 본 연봉계약은 1년간 자동 연장됨)"
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "④ 월 지급액(계약연봉 총액/12)의 구성 내역은 다음과 같다. \n급여항목 \n금  액          산출기준(월)       비  고 \n기본급        원    시간  주휴  월     시간 포함 \n연장근로수당        원    시간  \n식대       원      비과세 \n차량유지비        원     비과세 \n합  계        원   "
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑤ 기본급은 월 소정근로시간에 대한 통상임금으로써 제 수당의 산정기준이 된다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑥ 상기 약정한 시간외 근로시간을 초과하는 실제근로를 하는 경우 그 초과한 부분에 대한 별도의 수당을 지급한다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 7,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑦ 식대는 복리후생비로써, ‘강사’의 근무기간이 1월 이상인 경우, 매월 15일 이상 출근한 경우에 지급된다."
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 8,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑧ 차량유지비는 실비 변상적 성질의 급여로서, 본인 소유의 차량등록증을 보유한 ‘강사‘가 ‘학원’의 업무수행에 이용하는 경우에 지급된다."
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 9,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑨ ‘강사’의 귀책사유로 인하여 근무하지 아니한 기간은 일할 산정하여 급여에서 공제하며, 결근, 지각, 외출, 조퇴, 병가 등 근무하지 아니한 시간은 급여에서 당해 시간에 해당하는 금액을 공제한다."
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 10,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑩ 임금은 월 지급총액에서 4대보험료, 소득세, 지방소득세를 공제한 후 매월 임금 지급일에 지급한다.(임금명세서는 의무적으로 필수 교부) "
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 11,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "⑪ 임금계산기간은 당월    일부터 당월    일까지로 하며, 익월  일 근로자의 계좌로 전액 입금 한다. 다만, 지급일이 토요일 또는 공휴일인 경우에는 그 전날 또는 다음날에 지급한다."
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 12,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "⑫ 연봉에 관련된 사항은 타인에게 공개하여서는 아니 되며, 이를 위반 시 이로 인한 모든 불이익을 감수하도록 한다."
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제6조 【퇴직급여】"
+                }
+            },
+            {
+                "id": "34",
+                "format": {
+                    "position": {
+                        "line": "34"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타",
+                        "관계법령준수"
+                    ],
+                    "description": "‘학원장’은 ‘강사’의 퇴직 시에 근로연수 1년에 대하여 평균임금 30일분의 퇴직금을 지급하며, 퇴직금은 퇴사 시 일시금으로 지급되거나 퇴직연금으로 지급된다. 그 외에 퇴직금 지급에 관한 사항은 노동관계법에 정하는 바에 의한다."
+                }
+            },
+            {
+                "id": "35",
+                "format": {
+                    "position": {
+                        "line": "35"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "제7조 【근로계약의 해지】"
+                }
+            },
+            {
+                "id": "36",
+                "format": {
+                    "position": {
+                        "line": "36"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "다음 각 호에 해당하는 경우, ‘학원장’은 ‘강사’의 근로계약을 해지할 수 있다."
+                }
+            },
+            {
+                "id": "37",
+                "format": {
+                    "position": {
+                        "line": "37"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "1. 근무 성적 또는 능률이 불량한 자로서 취업이 부당하다고 인정되며, 개선의 가망이 없는 경우"
+                }
+            },
+            {
+                "id": "38",
+                "format": {
+                    "position": {
+                        "line": "38"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "2. 출근 상황이 불량하여 3회 이상 징계 처분을 받았거나 5일 이상 무단결근한 경우"
+                }
+            },
+            {
+                "id": "39",
+                "format": {
+                    "position": {
+                        "line": "39"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "3. 신체 또는 정신상 병으로 직무를 감당할 수 없다고 인정되는 경우"
+                }
+            },
+            {
+                "id": "40",
+                "format": {
+                    "position": {
+                        "line": "40"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "4. 고의 또는 중대한 사유로 회사에 손해를 끼쳤거나 명예를 손상한 경우"
+                }
+            },
+            {
+                "id": "41",
+                "format": {
+                    "position": {
+                        "line": "41"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "5. 업무의 축소, 폐쇄 및 영업부진 등 경영상 이유에 의하여 감원이 필요하다고 인정되는 경우"
+                }
+            },
+            {
+                "id": "42",
+                "format": {
+                    "position": {
+                        "line": "42"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "6. 정기 또는 임시 건강진단 결과 취업 부적격자로 판정된 경우"
+                }
+            },
+            {
+                "id": "43",
+                "format": {
+                    "position": {
+                        "line": "43"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 7,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "7. 취업 이후에 채용 결격 사유가 발견된 경우"
+                }
+            },
+            {
+                "id": "44",
+                "format": {
+                    "position": {
+                        "line": "44"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 8,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "8. 학력, 경력의 허위기재 등 부정한 방법으로 채용된 경우"
+                }
+            },
+            {
+                "id": "45",
+                "format": {
+                    "position": {
+                        "line": "45"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 9,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "9. 형사상 유죄판결이 확정된 경우"
+                }
+            },
+            {
+                "id": "46",
+                "format": {
+                    "position": {
+                        "line": "46"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 10,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "10. 직장 내 질서를 문란하게 한 경우"
+                }
+            },
+            {
+                "id": "47",
+                "format": {
+                    "position": {
+                        "line": "47"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 11,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "11. ‘학원장’의 승낙 없이 다른 직업에 종사하는 경우"
+                }
+            },
+            {
+                "id": "48",
+                "format": {
+                    "position": {
+                        "line": "48"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": 12,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "12. 기타 이에 준하는 부득이한 사유가 있는 경우"
+                }
+            },
+            {
+                "id": "49",
+                "format": {
+                    "position": {
+                        "line": "49"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "통지의무"
+                    ],
+                    "description": "제8조 【고지의무】"
+                }
+            },
+            {
+                "id": "50",
+                "format": {
+                    "position": {
+                        "line": "50"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "통지의무",
+                        "손해배상의 예정"
+                    ],
+                    "description": "상기 계약기간 만료 전 퇴사할 경우 ‘강사’는 퇴사희망일 1개월 전에 관리자에게 사직서를 제출하여야 하며, 업무 인수인계를 통하여 업무에 지장이 없도록 하여야 한다. 만약, 사전 통보 없이 임의로 퇴사할 경우 ‘학원장’은 이로 인한 관리적 손실에 대하여 ‘강사’에게 손해배상을 청구할 수 있다. "
+                }
+            },
+            {
+                "id": "51",
+                "format": {
+                    "position": {
+                        "line": "51"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "제9조 【비밀유지의무】"
+                }
+            },
+            {
+                "id": "52",
+                "format": {
+                    "position": {
+                        "line": "52"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지",
+                        "손해배상의 예정"
+                    ],
+                    "description": "‘강사’는 근무 중 알게 된 ‘학원’의 내부 자료나 정보를 회사의 동의 없이 제3자에게 제공·누설하거나 다른 목적으로 사용하지 않으며, 근로계약 해지 시에는 회사의 지적 자산 및 내부 자료를 즉시 회사에 반납한다. 이와 관련하여 ‘학원장’에게 금전적, 정신적 손해가 발생하였을 경우 전액 배상하고 민·형사상의 책임을 진다."
+                }
+            },
+            {
+                "id": "53",
+                "format": {
+                    "position": {
+                        "line": "53"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제10조 【보칙】"
+                }
+            },
+            {
+                "id": "54",
+                "format": {
+                    "position": {
+                        "line": "54"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관계법령준수"
+                    ],
+                    "description": "이 계약서에서 정하지 아니한 사항은 「근로기준법」 등 노동관계법령 또는 취업규칙에서 정하는 바에 따른다."
+                }
+            },
+            {
+                "id": "55",
+                "format": {
+                    "position": {
+                        "line": "55"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "양 당사자 간 아무런 이의가 없기에 위 근로계약을 체결하며 상기사항을 성실히 준수하기 위하여 본 계약서를 2부 작성, 서명날인한 후 각 1부씩 보관함."
+                }
+            },
+            {
+                "id": "56",
+                "format": {
+                    "position": {
+                        "line": "56"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "20   년    월    일"
+                }
+            },
+            {
+                "id": "57",
+                "format": {
+                    "position": {
+                        "line": "57"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "학원장\n(사용자) 대표자        (서명/인)              \n사업체명    \n소재지   "
+                }
+            },
+            {
+                "id": "58",
+                "format": {
+                    "position": {
+                        "line": "58"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항",
+                        "피고용인의 기명날인"
+                    ],
+                    "description": "강사\n(근로자) 성    명         (서명/인)           \n생년월일   \n전화번호   \n주    소  "
+                }
+            }
+        ]
+    }
+}

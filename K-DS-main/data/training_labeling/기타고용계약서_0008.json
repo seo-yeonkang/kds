@@ -1,0 +1,1500 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0008",
+                "document_size": "85kb",
+                "document_page_count": "5",
+                "document_total_ids": "73",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-23",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "문화예술진흥법, 저작권법, 근로기준법",
+                    "document_purpose": "공연예술 산업에서 제작자와 실연자 간의 권리와 의무를 명확히 규정하고, 공연 출연 계약을 체결하여 계약 이행을 보장하기 위함",
+                    "document_use_case": "공연 제작 과정에서 배우, 음악가 등 실연자와의 계약을 체결할 때 활용. 특히 공연 준비, 리허설 및 실제 공연 단계에서 실연자의 근로 조건을 명확히 하기 위해 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "공연예술출연계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "제작자 와 실연자 는 __________공연(이하 ‘본 공연’이라 함)과 관련하여 다음과 같이 계약한다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "제1조 (계약의 목적)"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 목적"
+                    ],
+                    "description": "이 계약은 본 공연과 관련하여 제작자와 실연자 사이의 권리와 의무를 명확히 하는 것을 목적으로 한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제2조 (공연개요)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 본 공연의 개요는 다음과 같다"
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "1. 공 연 명 :"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "2. 공연일정 : 년 월 일부터 년 월 일까지"
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "3. 공연횟수 :"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": 4
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "4. 연습일정 : 년 월 일부터 년 월 일까지"
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 1,
+                    "subparagraph": 5
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "5. 공연장소 :"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 실연자는 본 공연의 역할로 출연한다."
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "제3조 (계약기간)"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약기간"
+                    ],
+                    "description": "본 계약 기간은 년 월 일부터 년 월 일까지로 한다."
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 4,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "제4조 (출연료)"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "① 제작자는 실연자에게 제2조 제1항 제3호     회 출연에 대한 출연료와 제 4호 연습기간에 대한 보수로서 금            원을 법령상의 세금과 고용보험료를 공제한 후 다음과 같이 지급한다. 계약금과 잔금의 비율은 양 당사자가 상호 협의하여 아래 표기한 방식으로 정한다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "( )회 분할 지급 □\n1. 계약금 원 (계약 체결 후 일 이내)\n2. 잔금 원 (공연 종료 후 일 이내)\n공연 회차별 분할 지급 □\n1. 계약금 원 (계약 체결 후 일 이내)\n2. 공연 회 원 지급 ( 회 공연 종료 후 일 이내)\n3. 잔금 원 (공연 종료 후 일 이내)"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "② 공연 일정이 위 제1항의 횟수를 초과하거나, 실연자가 제2조 제2항의 역할 이외에 추가 역할을 담당하는 경우 제작자는 실연자에게 상응하는 보수를 지급하여야 한다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "③ 제1항 및 제2항에 해당하는 금액은 아래 실연자의 계좌로 입금한다."
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "1. 은행명 :"
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "2. 계좌번호 :"
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 4,
+                    "paragraph": 3,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "3. 예금주 :"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 5,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제5조 (실연자의 의무)"
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 실연자는 연습일정 및 공연일정을 준수하여야 한다."
+                }
+            },
+            {
+                "id": "25",
+                "format": {
+                    "position": {
+                        "line": "25"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 실연자는 워밍업ᆞ모니터링 참여 등 공연의 원활한 진행을 위한 제작자의 요구를 존중하고 따라야  한다."
+                }
+            },
+            {
+                "id": "26",
+                "format": {
+                    "position": {
+                        "line": "26"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "③ 실연자는 공연 홍보물 제작을 위해 필요한 사진 등을 제공하여야 하며, 제작자가 공연의 홍보활동을 위해 사진 및 영상촬영, 매체인터뷰 등을 요청할 시 이에 적극 협조하여야 한다."
+                }
+            },
+            {
+                "id": "27",
+                "format": {
+                    "position": {
+                        "line": "27"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "④ 실연자는 공연홍보를 위한 범위 내에서 위 제3항에 따라 제공된 사진, 초상, 성명, 필적 등을 사용할 수 있는 권리를 제작자에게 부여한다."
+                }
+            },
+            {
+                "id": "28",
+                "format": {
+                    "position": {
+                        "line": "28"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 5,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "⑤ 실연자는 연습, 공연 및 영상촬영 중 사고에 대비하여 산업재해보상보험 또는 상해보험에 가입하여야 한다."
+                }
+            },
+            {
+                "id": "29",
+                "format": {
+                    "position": {
+                        "line": "29"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 6,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제6조 (제작자의 의무)"
+                }
+            },
+            {
+                "id": "30",
+                "format": {
+                    "position": {
+                        "line": "30"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 제작자는 연습, 공연 및 영상촬영을 위한 적절한 설비와 전문 인력을 제공하여야 한다."
+                }
+            },
+            {
+                "id": "31",
+                "format": {
+                    "position": {
+                        "line": "31"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "② 제작자는 의상, 분장, 도구, 악기 등을 제공하여야 한다. 다만, 실연자가 자신의 악기 등을 사용하는 경우 그 보상 방법은 양 당사자가 상호 협의하여 정한다."
+                }
+            },
+            {
+                "id": "32",
+                "format": {
+                    "position": {
+                        "line": "32"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "③ 제작자는 실연자의 예술적 견해나 의사를 존중한다."
+                }
+            },
+            {
+                "id": "33",
+                "format": {
+                    "position": {
+                        "line": "33"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "④ 제작자는 프로그램, 홍보물 및 영상에 적절한 방법으로 실연자의 성명을 표기하여야 한다.  다만, 구체적인 표기방식은 양 당사자가 사전에 상호협의하여 정한다."
+                }
+            },
+            {
+                "id": "34",
+                "format": {
+                    "position": {
+                        "line": "34"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "⑤ 제작자는 실연자의 연습, 공연 및 영상촬영 중 사고에 대비하여 산업재해보상보험 또는 상해보험 가입에 가입할 수 있도록 지원하여야 한다."
+                }
+            },
+            {
+                "id": "35",
+                "format": {
+                    "position": {
+                        "line": "35"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 6,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "신의성실"
+                    ],
+                    "description": "⑥ 제작자는 고용보험 관련 법령에 따라 실연자를 피보험자로 하는 고용보험 취득신고 등 자격관리 업무를 성실히 수행하며, 실연자와 제작자가 부담하여야 하는 고용보험료를 납부하여야 한다. 이 경우 제작자는 실연자가 부담하여야 하는 고용보험료를 고용보험 관련 법령에 따라 실연자의 출연료에서 원천공제하여 납부할 수 있다."
+                }
+            },
+            {
+                "id": "36",
+                "format": {
+                    "position": {
+                        "line": "36"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제7조 (상품화)"
+                }
+            },
+            {
+                "id": "37",
+                "format": {
+                    "position": {
+                        "line": "37"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 7,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "CDᆞDVDᆞ블루레이 등 녹음ᆞ녹화의 복제물을 제작하여 판매하거나, 초상 등을 이용한 상품화 사업을 하는 경우 그 구체적인 내용은 양 당사자가 상호 합의하여야 한다."
+                }
+            },
+            {
+                "id": "38",
+                "format": {
+                    "position": {
+                        "line": "38"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 8,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제8조 (공연 실황 영상저작물 제작)"
+                }
+            },
+            {
+                "id": "39",
+                "format": {
+                    "position": {
+                        "line": "39"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "① 공연실황의 영상저작물 제작을 위한 영상 촬영 일정은 다음과 같다."
+                }
+            },
+            {
+                "id": "40",
+                "format": {
+                    "position": {
+                        "line": "40"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "ᆞ 영상 촬영 일정 :"
+                }
+            },
+            {
+                "id": "41",
+                "format": {
+                    "position": {
+                        "line": "41"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용",
+                        "계약금의 지급"
+                    ],
+                    "description": "② 위 제1항의 영상 촬영을 위하여  별도의 실연이 필요한 경우 제작자는 실연자에게 촬영종료 후      일 내에  출연료로 금        원을  지급한다."
+                }
+            },
+            {
+                "id": "42",
+                "format": {
+                    "position": {
+                        "line": "42"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급",
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "③ 영상저작물의 저작인접권 사용료의 지급은 다음 방식 중 양 당사자가 협의하여 정한다."
+                }
+            },
+            {
+                "id": "43",
+                "format": {
+                    "position": {
+                        "line": "43"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": 1
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "1. 정액으로 금 원 (촬영종료 후 일 이내 지급) ( )"
+                }
+            },
+            {
+                "id": "44",
+                "format": {
+                    "position": {
+                        "line": "44"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": 2
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "2. 영상저작물 매출의     %로 산정한 금액 (매출 발생 후   일 이내) ( )"
+                }
+            },
+            {
+                "id": "45",
+                "format": {
+                    "position": {
+                        "line": "45"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": 3
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "3. 계약금 원 및 영상저작물 매출의 %로 산정한 금액 ( )"
+                }
+            },
+            {
+                "id": "46",
+                "format": {
+                    "position": {
+                        "line": "46"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 8,
+                    "paragraph": 3,
+                    "subparagraph": 4
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "4. 계약금 원 및 영상저작물을 제작 완료한 후 년 이후 발생하는 매출의 _ %로 산정한 금액"
+                }
+            },
+            {
+                "id": "47",
+                "format": {
+                    "position": {
+                        "line": "47"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "제9조 (기록물ᆞ영상물에 대한 권리)"
+                }
+            },
+            {
+                "id": "48",
+                "format": {
+                    "position": {
+                        "line": "48"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 9,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "본 공연과 관련하여 작성된 사진, 녹음ᆞ녹화물, 영상저작물 등에 대한 저작권ᆞ소유권 기타 권리는 원칙적으로 제작자에게 귀속한다."
+                }
+            },
+            {
+                "id": "49",
+                "format": {
+                    "position": {
+                        "line": "49"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 10,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "손해배상의 예정"
+                    ],
+                    "description": "제10조 (계약해지 및 손해배상)"
+                }
+            },
+            {
+                "id": "50",
+                "format": {
+                    "position": {
+                        "line": "50"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "① 제작자와 실연자는 상대방이 정당한 이유 없이 이 계약을 위반하는 경우 상당한 기간을 정하여 그 시정을 최고하고, 상대방이 그 기간이 지나도록 시정하지 않는 경우에는 본 계약을 해지할 수 있다. 다만, 상대방의 시정 거부 의사가 명백하거나 위반사항의 성격상 즉각적인 해지가 불가피한 경우에는 최고 없이 해지할 수 있다."
+                }
+            },
+            {
+                "id": "51",
+                "format": {
+                    "position": {
+                        "line": "51"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 10,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "손해배상의 예정"
+                    ],
+                    "description": "② 제1항에 따른 해지권의 행사는 상대방에 대한 손해배상 청구권 행사에 영향을 미치지 않는다."
+                }
+            },
+            {
+                "id": "52",
+                "format": {
+                    "position": {
+                        "line": "52"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 11,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 내용"
+                    ],
+                    "description": "제11조 (성희롱 등 피해구제)"
+                }
+            },
+            {
+                "id": "53",
+                "format": {
+                    "position": {
+                        "line": "53"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "손해배상의 예정"
+                    ],
+                    "description": "① 제작자(제작자의 대표, 임직원, 자문ᆞ기획위원 등 명칭을 불문하고 출연자를 지휘ᆞ 감독하는 지위에 있는 자를 포함한다) 및 실연자가 상대방의 성폭력ᆞ성희롱 행위로 정상적인 업무를 수행하기 어려운 경우 제10조 제1항에 따라 계약을 해지하고 그에 대한 손해배상을 청구할 수 있다."
+                }
+            },
+            {
+                "id": "54",
+                "format": {
+                    "position": {
+                        "line": "54"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 11,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "② 위 제1항에 따른 성폭력ᆞ성희롱 행위가 발생한 경우 피해자는 계약의 해지 여부와 관계없이 국가인권위원회에 진정하거나 문화체육관광부 장관에게 신고하여 분쟁을 해결할 수 있다."
+                }
+            },
+            {
+                "id": "55",
+                "format": {
+                    "position": {
+                        "line": "55"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 12,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "면책"
+                    ],
+                    "description": "제12조 (불가항력)"
+                }
+            },
+            {
+                "id": "56",
+                "format": {
+                    "position": {
+                        "line": "56"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지",
+                        "면책"
+                    ],
+                    "description": "① 실연자의 사망이나 질병, 지진, 화재, 수해, 기타 천재지변으로 인한 공연장의 일부 또는 전부의 멸실, 전쟁, 내란, 폭동, 전염병의 창궐, 기타 양 당사자에게 책임이 없는 사유에 의하여 계약의 이행이 지체 또는 불가능하게 될 경우, 양 당사자는 이 계약을 해지할 수 있다."
+                }
+            },
+            {
+                "id": "57",
+                "format": {
+                    "position": {
+                        "line": "57"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 12,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "면책",
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "② 제1항의 사유로 인해 이 계약이 해지된 경우 양 당사자는 계약 위반의 책임을 부담하지 않는다. 다만, 이로 인해 발생한 손해에 대하여는 양 당사자가 합의하여 처리한다."
+                }
+            },
+            {
+                "id": "58",
+                "format": {
+                    "position": {
+                        "line": "58"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "제13조 (비밀유지)"
+                }
+            },
+            {
+                "id": "59",
+                "format": {
+                    "position": {
+                        "line": "59"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 13,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "양 당사자는 본 계약에 따른 업무수행 중 알게 된 상대방의 비밀을 제3자에게 공개하여서는 안된다."
+                }
+            },
+            {
+                "id": "60",
+                "format": {
+                    "position": {
+                        "line": "60"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "권리의 양도, 처분 금지"
+                    ],
+                    "description": "제14조 (계약상 지위의 이전 금지)"
+                }
+            },
+            {
+                "id": "61",
+                "format": {
+                    "position": {
+                        "line": "61"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 14,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "권리의 양도, 처분 금지"
+                    ],
+                    "description": "양 당사자는 상대방의 사전 서면동의 없이 본 계약상의 지위를 제3자에게 이전하거나, 본 계약상의 권리와 의무를 제3자에게 대신하게 할 수 없다."
+                }
+            },
+            {
+                "id": "62",
+                "format": {
+                    "position": {
+                        "line": "62"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 15,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 변경에 대한 합의"
+                    ],
+                    "description": "제15조 (계약의 변경)"
+                }
+            },
+            {
+                "id": "63",
+                "format": {
+                    "position": {
+                        "line": "63"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 15,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 변경에 대한 합의"
+                    ],
+                    "description": "양 당사자는 서면합의에 의해서만 본 계약을 변경할 수 있고, 그 서면합의에서 달리 정하지 않으면 변경된 사항은 그 다음날부터 유효하다."
+                }
+            },
+            {
+                "id": "64",
+                "format": {
+                    "position": {
+                        "line": "64"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 16,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "제16조 (분쟁해결)"
+                }
+            },
+            {
+                "id": "65",
+                "format": {
+                    "position": {
+                        "line": "65"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 16,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "업무 수행을 위한 협조, 협의"
+                    ],
+                    "description": "① 이 계약과 관련하여 분쟁이 발생하였을 경우 양 당사자는 우호적으로 해결하기 위하여 노력하여야 한다."
+                }
+            },
+            {
+                "id": "66",
+                "format": {
+                    "position": {
+                        "line": "66"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 16,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관할법원"
+                    ],
+                    "description": "② 1항에 따라 분쟁이 해결되지 않을 때는 대한상사중재원에서 국내중재규칙에 따라 중재로 해결한다."
+                }
+            },
+            {
+                "id": "67",
+                "format": {
+                    "position": {
+                        "line": "67"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 17,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 효력"
+                    ],
+                    "description": "제17조 (효력발생 등)"
+                }
+            },
+            {
+                "id": "68",
+                "format": {
+                    "position": {
+                        "line": "68"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 17,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 효력"
+                    ],
+                    "description": "① 이 계약은 계약 체결일로부터 효력이 발생한다."
+                }
+            },
+            {
+                "id": "69",
+                "format": {
+                    "position": {
+                        "line": "69"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 17,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "준거법"
+                    ],
+                    "description": "② 이 계약에 명시되지 않은 사항은 양 당사자가 성의를 갖고 상호 협의하여 결정하되, 저작권법 등 대한민국 법령, 일반적인 상관례, 대한민국 공연계 관행에 따른다."
+                }
+            },
+            {
+                "id": "70",
+                "format": {
+                    "position": {
+                        "line": "70"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "이 계약의 성립을 증명하기 위하여 제작자와 실연자는 계약서 2부를 작성하여 각각 서명날인 후 각 1부씩 소지한다."
+                }
+            },
+            {
+                "id": "71",
+                "format": {
+                    "position": {
+                        "line": "71"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "년 월 일"
+                }
+            },
+            {
+                "id": "72",
+                "format": {
+                    "position": {
+                        "line": "72"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "제작자\n법인명(단체명)\n대표자 (인)\n법인등록번호(사업자등록번호)\n주소"
+                }
+            },
+            {
+                "id": "73",
+                "format": {
+                    "position": {
+                        "line": "73"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항",
+                        "피고용인의 기명날인"
+                    ],
+                    "description": "실연자\n성명 (인)\n생년월일\n주소"
+                }
+            }
+        ]
+    }
+}

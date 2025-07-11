@@ -1,0 +1,514 @@
+{
+    "document": {
+        "type": "계약 법률 문서",
+        "metadata": {
+            "file_info": {
+                "document_name": "기타고용계약서_0078",
+                "document_size": "106kb",
+                "document_page_count": "3",
+                "document_total_ids": "24",
+                "document_format": "pdf",
+                "document_creation_date": "2024-10-28",
+                "document_category": {
+                    "main_category": "인사_고용_노무",
+                    "sub_category": "고용계약",
+                    "detail_category": "기타고용계약서"
+                },
+                "additional_info": {
+                    "related_law": "근로기준법, 저작권법, 정보통신망 이용촉진 및 정보보호 등에 관한 법률",
+                    "document_purpose": "회사와 강연자 간의 강연 계약 체결 시 강연의 내용, 강연료 지급, 기밀 유지, 지적재산권 소유 등의 조건을 명확히 규정하고 이를 이행하기 위함",
+                    "document_use_case": "기업의 워크샵이나 세미나에서 외부 강연자를 초빙하여 특정 주제에 대한 강연을 진행할 때 활용. 특히, 강연 내용의 기밀 유지와 지적재산권 보호가 중요한 경우 사용됨.",
+                    "public_domain_sources": null
+                }
+            }
+        },
+        "sections": [
+            {
+                "id": "1",
+                "format": {
+                    "position": {
+                        "line": "1"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "제목",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "강연 계약서"
+                }
+            },
+            {
+                "id": "2",
+                "format": {
+                    "position": {
+                        "line": "2"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "서문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 당사자"
+                    ],
+                    "description": "(@회사명1)(이하, “회사”)와  (@회사명2)은 (@날짜) (@주소)에서 개최되는 회사 워크샵에서 [(@구체적 사실)]에 대한 강연과 관련하여 다음 사항에 대한 상호합의 사항을 확인하기 위한 목적으로 작성됩니다."
+                }
+            },
+            {
+                "id": "3",
+                "format": {
+                    "position": {
+                        "line": "3"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "제1조 (경영계약이행실적 보고)"
+                }
+            },
+            {
+                "id": "4",
+                "format": {
+                    "position": {
+                        "line": "4"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 1,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "기타"
+                    ],
+                    "description": "임원은 매분기 경영계약의 이행에 관한 당해 분기 경영실적 보고서를 작성하여 분기 마감 후 10일 이내에 이사회에 제출하여야 한다."
+                }
+            },
+            {
+                "id": "5",
+                "format": {
+                    "position": {
+                        "line": "5"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 효력"
+                    ],
+                    "description": "제2조 (효력발생)"
+                }
+            },
+            {
+                "id": "6",
+                "format": {
+                    "position": {
+                        "line": "6"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 2,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 효력"
+                    ],
+                    "description": "본 계약은 KBO 규약에 따라 선수가 구단의 소속선수임이 공시된 날로부터 그 효력이 발생합니다."
+                }
+            },
+            {
+                "id": "7",
+                "format": {
+                    "position": {
+                        "line": "7"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": true,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "제3조 기밀유지"
+                }
+            },
+            {
+                "id": "8",
+                "format": {
+                    "position": {
+                        "line": "8"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권",
+                        "계약의 해제, 해지",
+                        "계약금의 지급",
+                        "면책",
+                        "관계법령준수"
+                    ],
+                    "description": "본 계약의 이행과정에서\n1. 지적재산권의 소유\n2. 계약의 해지\n3. 강연료의 지급\n4. 지급의무의 면책\n5. 법률과 규범 준수"
+                }
+            },
+            {
+                "id": "9",
+                "format": {
+                    "position": {
+                        "line": "9"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "1. 기밀유지"
+                }
+            },
+            {
+                "id": "10",
+                "format": {
+                    "position": {
+                        "line": "10"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 1,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "비밀 유지"
+                    ],
+                    "description": "본 계약의 이행과정에서 귀하에게 제공되어지거나, 귀하가 취득한 (@회사명2)의 기밀정보가 제3자에게 유출될 경우 회사는 사업상 막대한 손해를 입을 수 있으므로, 회사의 서면승인 없이 회사가 제공하는 기밀정보를 복사하거나 재생산하지 않을 것이며, 동 정보를 본 계약 목적 이외로 사용하거나 제3자에게 유출하지 않아야 합니다. "
+                }
+            },
+            {
+                "id": "11",
+                "format": {
+                    "position": {
+                        "line": "11"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "2. 지적재산권의 소유"
+                }
+            },
+            {
+                "id": "12",
+                "format": {
+                    "position": {
+                        "line": "12"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 2,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "지적재산권"
+                    ],
+                    "description": "본 계약에 따라 강연을 준비하거나 제공하는 동안 또는 그 이외의 경우 회사의 기밀정보를 이용하여 발생된 모든 지적재산권에 대하여 회사에 통지하여야 하며, 귀하는 이러한 지적재산권에 대한 소유권 귀속 및 사용권리에 대하여 양 당사자간 상호합의 할 수 있다는 사실을 이해하고 이에 대해 신의성실원칙에 의해 회사와 협의해야 합니다. "
+                }
+            },
+            {
+                "id": "13",
+                "format": {
+                    "position": {
+                        "line": "13"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "3. 계약의 해지"
+                }
+            },
+            {
+                "id": "14",
+                "format": {
+                    "position": {
+                        "line": "14"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 3,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약의 해제, 해지"
+                    ],
+                    "description": "본 계약의 서비스를 제공함에 있어 최대한 주의와 정당한 기술을 사용할 것에 동의합니다. 또한 귀하는 본 계약서의 의무에 반하는 어떠한 상충되는 이해관계에도 관여하지 않으며, 이해관계의 충돌과 관련된 의무를 위반한 경우, 회사는 귀하와의 본 계약 (또는 계약의 일부)을 강연 예정일 14일 전 사전통지로써 해지할 수 있습니다."
+                }
+            },
+            {
+                "id": "15",
+                "format": {
+                    "position": {
+                        "line": "15"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "4. 강연료의 지급"
+                }
+            },
+            {
+                "id": "16",
+                "format": {
+                    "position": {
+                        "line": "16"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 4,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약금의 지급"
+                    ],
+                    "description": "회사는 귀하에게 본 강연에 대한 대가로                         원을 지불할 것 입니다. 필요 시 지방출장의 경우 이동을 위하여 실제 발생한 여행경비와 합리적 수준의 숙박비를 제공할 것입니다. 단, 상기 강연료, 교통비, 숙박비를 제외한 귀하가 사용한 비용에 대하여 회사는 지급 의무가 없습니다. 또한 귀하가 지급받을 수 있는 계좌정보를 별첨 양식에 기입하거나 회사의 별도 요청 증빙자료 (통장사본과 주민등록증 사본)를 회사에 제공하여야 합니다."
+                }
+            },
+            {
+                "id": "17",
+                "format": {
+                    "position": {
+                        "line": "17"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "면책"
+                    ],
+                    "description": "5. 지급의무의 면책"
+                }
+            },
+            {
+                "id": "18",
+                "format": {
+                    "position": {
+                        "line": "18"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 5,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "면책"
+                    ],
+                    "description": "귀하가 본 계약에 따른 서비스 혹은 서비스의 일부를 제공하지 못하게 되는 경우 회사가 그에 대한 적절한 대비를 할 수 있도록 가능한 한 빠른 시일 내에 회사에 알려주셔야 하며, 그 경우 귀하가 제공하지 않거나 제공하지 않을 강연에 대해 회사는 본 계약에 따른 비용지급 의무로부터 면책됩니다."
+                }
+            },
+            {
+                "id": "19",
+                "format": {
+                    "position": {
+                        "line": "19"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관계법령준수"
+                    ],
+                    "description": "6. 법률과 규범 준수"
+                }
+            },
+            {
+                "id": "20",
+                "format": {
+                    "position": {
+                        "line": "20"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "본문",
+                    "is_article_title": false,
+                    "article": 3,
+                    "paragraph": 6,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "관계법령준수"
+                    ],
+                    "description": "본 계약에 따라 제공될 강연은 모든 관련 법률과 규범을 준수하여 적법하게 이루어져야 하며, 특히 모든 강연자료는 (@구체적 사실)과 관련된 모든 법률에 부합하여야 합니다. 회사는 허가 받지 않은 어떠한 사항에 대해서도 회사제품의 사용을 권장하지 않습니다."
+                }
+            },
+            {
+                "id": "21",
+                "format": {
+                    "position": {
+                        "line": "21"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "후문",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약서의 교부"
+                    ],
+                    "description": "본 계약의 내용에 대하여 동의하신다면 하기 서명란에 서명하시고 계좌정보를 별첨 양식에 기입하거나 별도 증빙자료(통장사본과 주민등록증 사본)를 회사에 송부하여 주시기 바랍니다. 다시 한번 회사의 강연요청을 수락하여 주신 것에 대하여 깊은 감사를 표합니다. "
+                }
+            },
+            {
+                "id": "22",
+                "format": {
+                    "position": {
+                        "line": "22"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "회사의 인적사항",
+                        "회사의 기명날인"
+                    ],
+                    "description": "강연 위임자 : (@회사명2)\n주       소 : (@주소)\n대표이사 (@성명)  ( 인 )"
+                }
+            },
+            {
+                "id": "23",
+                "format": {
+                    "position": {
+                        "line": "23"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "기명날인",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "피고용인의 인적사항",
+                        "피고용인의 기명날인"
+                    ],
+                    "description": "강연자 성명 : ( 서 명 )\n주       소 :"
+                }
+            },
+            {
+                "id": "24",
+                "format": {
+                    "position": {
+                        "line": "24"
+                    },
+                    "section_type": "TEXT",
+                    "format_type": "날짜",
+                    "is_article_title": false,
+                    "article": null,
+                    "paragraph": null,
+                    "subparagraph": null
+                },
+                "content": {
+                    "content_labels": [
+                        "계약 체결 일자"
+                    ],
+                    "description": "서 명   일 자 : 20   년   월    일"
+                }
+            }
+        ]
+    }
+}

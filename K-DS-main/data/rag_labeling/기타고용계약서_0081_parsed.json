@@ -1,0 +1,179 @@
+[
+  {
+    "text": "강연 계약서",
+    "chunk_length": 6,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(@회사명1)(이하, “회사”)와  (@회사명2)은 (@날짜) (@주소)에서 개최되는 회사 워크샵에서 [(@구체적 사실)]에 대한 강연과 관련하여 다음 사항에 대한 상호합의 사항을 확인하기 위한 목적으로 작성됩니다.",
+    "chunk_length": 120,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "4. 지급의무의 면책",
+    "chunk_length": 11,
+    "type": "기타",
+    "content_labels": [
+      "면책"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "본 계약의 내용에 대하여 동의하신다면 하기 서명란에 서명하시고 계좌정보를 별첨 양식에 기입하거나 별도 증빙자료(통장사본과 주민등록증 사본)를 회사에 송부하여 주시기 바랍니다. 다시 한번 회사의 강연요청을 수락하여 주신 것에 대하여 깊은 감사를 표합니다.",
+    "chunk_length": 141,
+    "type": "후문",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "강연 위임자 : (@회사명 2)\n주 소 : (@주소)\n대표이사 (@성명) ( 인 )\n( 서 명 )",
+    "chunk_length": 54,
+    "type": "기명날인",
+    "content_labels": [
+      "회사의 인적사항",
+      "회사의 기명날인"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "강연자 성명 :\n주 소 : ",
+    "chunk_length": 15,
+    "type": "기명날인",
+    "content_labels": [
+      "피고용인의 기명날인",
+      "피고용인의 인적사항"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "서 명 일 자 : 20 년 월 일 ",
+    "chunk_length": 19,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 (휴가) \n연중 휴가일수는 총 12일이며 갑과 을이 협의하여 사용시기를 결정하도록 한다.\n1. 휴가\n회사는 귀하에게 본 계약에 따라 강연을 진행하는 기간 동안 연간 휴가를 제공할 것입니다. 휴가는 회사의 정책에 따라 사전 승인 후 사용해야 하며, 잔여 휴가는 다음 연도로 이월되지 않습니다.",
+    "article_number": 1,
+    "article_title": "제1조 (휴가) ",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 166,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 (상호의무)\n당사자들은 본 계약을 수행함에 있어 모든 관련된 업무를 성공적으로 수행하기 위한 의무를 다하여야 하며, 신의와 성실의 원칙에 의거 본 계약을 충실히 이행하여 상호 신용과 명예를 실추시키지 않도록 한다.",
+    "article_number": 2,
+    "article_title": "제2조 (상호의무)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 123,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "신의성실"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "6. 법률과 규범 준수\n본 계약에 따라 제공될 강연은 모든 관련 법률과 규범을 준수하여 적법하게 이루어져야 하며, 특히 모든 강연자료는 (@구체적 사실)과 관련된 모든 법률에 부합하여야 합니다. 회사는 허가 받지 않은 어떠한 사항에 대해서도 회사제품의 사용을 권장하지 않습니다.",
+    "article_number": 3,
+    "article_title": "6. 법률과 규범 준수",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 155,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "관계법령준수"
+    ],
+    "document_title": "기타고용계약서_0081",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "상법, 개인정보 보호법",
+    "document_purpose": "회사 워크샵에서 강연과 관련된 사항을 명확히 규정하고, 강연자와 회사 간의 권리와 의무를 명확히 하여 계약을 이행하기 위함",
+    "document_use_case": "기업의 워크샵, 세미나, 컨퍼런스 등에서 외부 강연자를 초청하여 강연을 진행할 때 활용. 특히 강연 주제와 관련된 기밀정보 보호와 지적재산권 소유, 강연료 지급 등 계약 조건을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]

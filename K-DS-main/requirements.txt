@@ -1,0 +1,37 @@
+# RAG System Required Packages
+# ============================
+
+# Stage 1: Basic RAG System
+sentence-transformers>=2.2.2    # BGE-M3 model
+chromadb>=0.4.15               # Vector database
+numpy>=1.24.0                  # Numerical computing
+torch>=2.0.0                   # Deep learning framework
+
+# Stage 2-3: Agent and Advanced Features (for future)
+langchain>=0.1.0               # LangChain framework
+langchain-openai>=0.1.0        # OpenAI integration
+langgraph>=0.1.0               # LangGraph workflow
+langsmith>=0.1.0               # Tracking and monitoring
+openai>=1.0.0                  # OpenAI API
+
+# PDF OCR Processing (No External Dependencies)
+PyMuPDF>=1.23.0                # PDF processing (pure Python)
+Pillow>=10.0.0                 # Image processing
+easyocr
+torch
+torchvision
+
+# Web Application
+streamlit>=1.28.0              # Web app framework
+
+# Data processing and utilities
+pandas>=2.0.0                  # Data analysis
+scikit-learn>=1.3.0            # Machine learning utilities
+tqdm>=4.65.0                   # Progress bars
+
+# Optional (performance enhancement)
+faiss-cpu>=1.7.0               # High-performance vector search
+transformers>=4.30.0           # Additional model support
+
+# Development and debugging
+python-dotenv>=1.0.0           # Environment variable management 

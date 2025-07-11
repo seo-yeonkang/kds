@@ -1,0 +1,337 @@
+[
+  {
+    "text": "외주 작업자 근로계약서",
+    "chunk_length": 12,
+    "type": "제목",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "(@회사명) (이하 “갑”이라 한다)는 (@성명1)(이하 “을”이라 한다)에게 (@담당 업무)를 의뢰하면서 다음과 같이 `프리랜서 근로계약`을 체결하고, 이를 이행할 것을 약정\n한다.",
+    "chunk_length": 102,
+    "type": "서문",
+    "content_labels": [
+      "계약의 당사자"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "2019년 02월 07일",
+    "chunk_length": 13,
+    "type": "날짜",
+    "content_labels": [
+      "계약 체결 일자"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "「갑」\n주 소 : (@주소1)\n회사명 : (@회사명)\n대리인 : (@성명2) (인)",
+    "chunk_length": 46,
+    "type": "기명날인",
+    "content_labels": [
+      "사용자의 인적사항",
+      "사용자의 기명날인"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "「을」\n주민번호 : (@주민번호)\n연락처 : (@전화번호)\n주소 : (@주소2)\n성 명 : (@성명1) (인)",
+    "chunk_length": 61,
+    "type": "기명날인",
+    "content_labels": [
+      "근로자의 인적사항",
+      "근로자의 기명날인"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제1조 (계약의 목적)\n본 계약은 “갑”이 “을”에게 (@담당 업무)를 의뢰함에 있어 필요한 제반 사항을 정함을 그 목적으로 한다.",
+    "article_number": 1,
+    "article_title": "제1조 (계약의 목적)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 73,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "계약의 목적"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제2조 (시간외 및 특별근무에 관한 상여금)\n“갑”이 규정한 근로시간을 초과하여 근무하거나, 특별히 위험한 노선에 차량을 운전하는 경우 “을”은 이에 상당한 수당 및 기타 보상을 지급하여야 한다.",
+    "article_number": 2,
+    "article_title": "제2조 (시간외 및 특별근무에 관한 상여금)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 109,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "상여금"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제3조 (계약의 범위)\n\"을\"은 \"갑\"이 의뢰한 다음 호의 작업내용을 수행하여야 한다.\n① 작업1(번역)",
+    "article_number": 3,
+    "article_title": "제3조 (계약의 범위)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 58,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제4조 (계약기간 및 계약금액)\n① 본 계약의 계약기간은 2019년 2월 8일부터 2019년 3월 31일까지로 한다.\n② 총 계약금액은 세금 차감 후 금액으로 산정하며, “갑”은 “을”에게 (@금액)을 지급한다\n③ 대금지급은 작업 완료일을 시점으로 15일 안에 지급하는 것으로 하며, 총 번역비에서 계약금을 제한 금액을 “을”이 정한 (@계좌번호)으로 입금한다.",
+    "article_number": 4,
+    "article_title": "제4조 (계약기간 및 계약금액)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 202,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "근로 계약 기간",
+      "임금액"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제5조 (퇴직금)\n① “갑”은 “을”의 퇴직 시 근로연수 1년에 대하여 근로기준법 및 단체협약에 따른 퇴직금을 지급한다.\n② 회사는 근로자의 안정적인 노후생활 보장을 위하여 퇴직연금제도를 설정하며 퇴직연금제도에 관한 세부사항은 퇴직연금규약에서 별도로 정한 바에 따른다.",
+    "article_number": 5,
+    "article_title": "제5조 (퇴직금)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 150,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "퇴직금"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제6조 (납품 및 양도)\n① “을”은 작업 진행 중 중간 완료된 성과물을 2019년 2월 28일까지 “갑”에게 납품하기로 하며 최종 작업본은 검토 및 수정 후 계약 완료일인 2019년 3월 31일까지 완성품으로 납품키로 한다. 만약 완성품의 수정 및 보완이 필요한 경우에는 “을”과 일정을 협의하여 진행키로 한다.\n② “을”은 출간 직전에 ”갑”과 저작재산권 양도 계약을 맺고 위 저작물에 대한 저작재산권 전부와 위 저작물을 원저작물로 하는 2차적 저작물 또는 위 저작물을 구성부분으로 하는 편집저작물을 작성하여 이용할 권리 전부를 ”갑”에게 양도한다.",
+    "article_number": 6,
+    "article_title": "제6조 (납품 및 양도)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 309,
+    "items_count": 2,
+    "type": "article",
+    "content_labels": [
+      "담당 업무"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제7조 (협조의무)\n“갑”은 “을”이 작업하는 데 필요한 자료 및 정보 등을 제공하여야 하며, 작업수행을 위한 “을”의 요청이 있는 경우 이에 적극적으로 협조하여야 한다.",
+    "article_number": 7,
+    "article_title": "제7조 (협조의무)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 95,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "기타"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제8조 (비밀유지)\n“을”은 본 작업과 관련하여 지득한 일체의 정보를 외부에 누설하거나 유출해서는 안되며, 이로 인해 발생되는 손해에 대해 책임을 지기로 한다.",
+    "article_number": 8,
+    "article_title": "제8조 (비밀유지)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 89,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "비밀 유지 의무"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제9조 (계약의 해지)\n① “갑”과 “을”은 불가피한 이유에 의하여 계약기간 중에 본 계약을 해지하고자 할 때는 계약만료 1개월 전에 서면으로서 상대방에게 통지하여야 한다.\n② “갑”과 “을”은 상당한 계약위반이나 기타의 사정에 의하여 계약업무 이행에 중대한 지장이 생긴 경우에는 전항의 규정에도 불구하고 통지 후 즉시 계약을 해지할 수 있다.\n③ ‘갑’과 ‘을’은 계약내용을 변경할 필요가 있을 때에는 상호협의를 통해 변경한 내용을 특약의 형식으로 정할 수 있다.",
+    "article_number": 9,
+    "article_title": "제9조 (계약의 해지)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 260,
+    "items_count": 3,
+    "type": "article",
+    "content_labels": [
+      "근로계약의 종료"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제10조 (손해배상)\n‘을’은 본 계약과 관련하여 ‘을’의 귀책사유로 인해 ‘갑’에게 손해를 입힌 경우 손해액을 배상하여야 한다. 다만, 천재지변 등 불가항력적인 경우에는 그러하지 아니하다.",
+    "article_number": 10,
+    "article_title": "제10조 (손해배상)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 106,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "손해배상의 예정"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제11조 (해석)\n본 계약에 명기하지 아니한 사항 및 본 계약의 해석상의 이의가 있을 때에는 쌍방의 협의 하에 결정하기로 한다.",
+    "article_number": 11,
+    "article_title": "제11조 (해석)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 71,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "준거법"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  },
+  {
+    "text": "제12조 (소송관할)\n본 계약으로 발생되는 분쟁은 서울중앙지방법원을 관할법원으로 한다.",
+    "article_number": 12,
+    "article_title": "제12조 (소송관할)",
+    "chunk_part": 1,
+    "total_parts": 1,
+    "chunk_length": 48,
+    "items_count": 1,
+    "type": "article",
+    "content_labels": [
+      "관할법원"
+    ],
+    "document_title": "근로계약서_0116",
+    "document_type": "계약 법률 문서",
+    "document_date": "2024-10-28",
+    "document_category": "고용계약",
+    "related_law": "근로기준법, 저작권법, 근로기준법 시행령",
+    "document_purpose": "프리랜서 근로자의 업무 의뢰와 계약 조건, 보수, 퇴직금 및 저작권 양도 등의 제반 사항을 명확히 규정하고 계약 이행을 보장하기 위함",
+    "document_use_case": "번역 산업에서 프리랜서 번역가와의 계약 체결 시 활용. 특히 번역 작업의 진행 및 완료 일정, 보수 지급, 저작권 양도 조건 등을 명확히 하기 위해 사용됨.",
+    "public_domain_sources": null
+  }
+]
